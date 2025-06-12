@@ -1,0 +1,739 @@
+Sydney Opera House 
+Technical and Production Information 
+— Concert Hall 
+Issue date: 25 January 2024 
+Issued by: Event Operations and Planning 
+
+Page 1     Technical and Production Information for the Concert HallTechnical and Production Information 
+Enquiries 
+Venue & Event Sales 
+T: +61 2 9250 7393 
+E: venuehire@sydneyoperahouse.com 
+Revisions 
+Version Date of Issue Issued by Issued for 
+2022.08 26/08/2022 Event Operations and 
+Planning Public 
+2024.01 25/01/2024 Event Operations and 
+Planning Public 
+Image by Chris Bennett Concert Hall –Venue Standard Configuration
+
+Page 2     Technical and Production Information for the Concert HallContents 
+1 Introduction 3
+1.1 List of Acronyms 3
+2 Risk Management 4
+3 Venue Access 5
+3.1 Getting to Stage Level 5
+3.2 Anteroom to Stage 6
+4 Venue Dimensions 7
+4.1 Plan Dimensions 7
+4.2 Section Dimensions 8
+4.3 Stage Surface 9
+4.4 Stage Plans 9
+4.5 Auditorium Seating 9
+5 Staging 11
+5.1 Stage Machinery 11
+5.2 Acoustic Systems 13
+5.3 Standard Venue Configuration 15
+5.4 Standard Staging Equipment 16
+5.5 Additional Staging Equipment 16
+6 Lighting 18
+6.1 Base Lighting Equipment 18
+6.2 Additional Lighting Equipment 20
+7 Sound & Audio Visual 21
+7.1 Base Sound Equipment 21
+7.2 Additional A/V Equipment 22
+8 Pianos 25
+8.1 Grand Organ 25
+9 Communications 26
+9.1 Stage Management Desk 26
+9.2 Show Relay 26
+9.3 Headset Communications 26
+10 Back-stage Facilities 27
+10.1 Dressing Rooms 27
+10.2 Rehearsal Rooms 27
+10.3 Laundry Facilities 27
+11 Protection of Building Surfaces 28
+
+Page 3     Technical and Production Information for the Concert Hall1 Introduction 
+The Concert Hall, with an audience capacity of up to 2654 in the round, is the largest 
+interior venue at SOH (Sydney Opera House). Home of the Sydney Symphony 
+Orchestra, the venue is regularly used by chamber and symphony orchestras, solo 
+classical performers, and choral groups, for which it’s acoustics are particularly well 
+suited. The Concert Hall (CH) is also used for contemporary music, jazz, variety shows, 
+dance, films and conferences. 
+The walls, stage and auditorium floor are finished in Australian brushbox timber with the 
+seats made from Australian white birch timber veneer, upholstered in magenta wool. 
+Overlooking the stage is believed to be the world’s largest mechanical action grand 
+organ, itself a distinctive architectural feature of the venue. 
+The foyers of the Concert Hall encircle the venue, offering unsurpassed views across 
+Sydney Harbour and the Harbour Bridge to the north and west, and the city to the south.  
+In 2022 the Concert Hall reopened after being closed for two and half years for extensive 
+renovations. A multi-million-dollar upgrade was undertaken to improve safety, acoustics, 
+and accessibility.  
+It is intended that this document is read in conjunction with the SOH Event Guide. 
+1.1 List of Acronyms 
+BOH Back of House 
+CP Central Passage 
+CH Concert Hall 
+CHNF Concert Hall Northern Foyer 
+CHSF Concert Hall Southern Foyer 
+EWP Elevated Work Platform 
+DS Down-stage 
+FOH Front of House 
+GR Green Room 
+LD Loading Dock 
+OP Opposite Prompt (Stage Right) 
+PS Prompt Side (Stage Left) 
+SM Stage Manager 
+SMD Stage Manager’s Desk 
+SOH Sydney Opera House 
+US Up-stage 
+
+Page 4     Technical and Production Information for the Concert Hall2 Risk Management 
+In NSW, if you conduct a business or undertaking, you are legally obliged to manage 
+certain risks. In particular, you must: 
+ Identify and eliminate risks to health and safety, or, if that is not practicable, then 
+minimise those risks as far as is reasonably practicable; and 
+ Ensure the health and safety of your own workers, AS WELL AS ensure that 
+other workers’ or persons’ safety is not put at risk by work carried out as part of 
+your business or undertaking. 
+Work health and safety obligations in NSW are non-transferable and concurrent. This 
+means that: 
+ Each business or person with safety obligations must comply with their WHS 
+requirements; and 
+ If more than one business or person has a duty under the law, then they must 
+comply to the extent that they can influence or control the safety matter. 
+Detailed information around risk management and production risk assessments is 
+available in the SOH Event Guide. 
+
+Page 5     Technical and Production Information for the Concert Hall3 Venue Access 
+3.1 Getting to Stage Level 
+Two goods lifts (12 and 22) are available to carry equipment from the main SOH Loading 
+Dock or Central Passage (CP) to the venue. These lifts are shared with The Studio and 
+stop at the following locations: 
+ B4 (Loading Dock) 
+ CP (Ground Level) 
+ GM (Studio Gallery Mezzanine Level) 
+ L1 (Orchestra Assembly Room) 
+ L2 (CH Anteroom) 
+ Size and weight limits apply: 
+Goods Lift Dimensions Lift 12 Lift 22 
+Internal Car 
+Dimensions Height 2.40m 2.39m 
+Width 1.65m 1.95m 
+Depth 3.36m 3.36m 
+Clear Door 
+Opening Height 2.20m 2.20m 
+Width 1.60m 1.80m 
+Load Capacity Max Capacity 1,800kg 1,800kg 
+Point Load 1,080kg 1,080kg 
+Other Speed 1.0m/s 1.0m/s 
+Doors 3 Panel side 
+opening 3 Panel side 
+opening 
+Larger items which exceed lift sizes are required to be carried into the building up 72 
+stairs, either from the Forecourt and the Monumental Steps, or from under the 
+Monumental Steps via the Box Office Foyer and the CH South Foyer (CHSF). 
+Access to the CHSF and into the CH is via standard double doors, either into the 
+Anteroom or through the CH auditorium via Door 11. 
+
+Page 6     Technical and Production Information for the Concert Hall3.2 Anteroom to Stage 
+Access from the anteroom towards stage is via four double doors (two in each wing). 
+Typically, OP side is used as a primary means of access to stage given its proximity to 
+the lifts, larger door and lack of permanent infrastructure within the wing area. PS access 
+is slightly more restrictive with reduced clearance between anteroom and wing.  
+Key Stage Access Dimensions Height Width 
+A Doors from wings to stage (all 4) 2.20m 2.00m 
+B Minimum clearance from anteroom to OP wing 2.20m 2.80m 
+C Minimum clearance from anteroom to PS wing 2.20m 1.70m 
+D Anteroom ceiling height 2.25m - 
+E Height clearance to down stage doors 2.08m - 
+
+Page 7     Technical and Production Information for the Concert Hall4 Venue Dimensions 
+4.1 Plan Dimensions 
+Dimension Details Distance 
+A Depth of stage at centre line 12.30m 
+B Depth of stage at centre line with stage extension 14.30m 
+C Width of stage front 14.50m 
+D Width between down-stage doors* 19.20m 
+E Width between up-stage doors* 16.00m 
+F Width at up-stage edge* (stairs not in use) 13.80m 
+G Width at up-stage edge (stairs in use) 11.70m 
+Dimensions are approximate and critical measurements should be confirmed on site. 
+*Stage walls overhang approx. 100mm at top 
+
+
+Page 8     Technical and Production Information for the Concert Hall4.2 Section Dimensions 
+Dimension Details Distance 
+A Auditorium floor to stage level 0.90m 
+B Height of ceiling at centre line (to ‘out dead’ of acoustic overlay) 15.0m 
+C Rear stage wall height 2.40m 
+D Follow-spot booth to stage front 37.0m 
+E Rear of upper circle to stage front 44.0m 
+F Rear of stalls to stage front  20.5m 
+Dimensions are approximate and critical measurements should be confirmed on site. 
+
+
+Page 9     Technical and Production Information for the Concert Hall4.3 Stage Surface 
+Surface* Satin matte clear polyurethane on brushbox over 21mm ply 
+substrate 
+Rake Flat – No rake 
+Max Point Load 500kg (over a 200 x 200mm area) 
+Total Live Load US - 700kg/m2
+DS - 500kg/m2  (Stage extension / Stage lifts 1A, 2A, 3A, 4A, 1B, 
+C, 1D, 1E, 2E, 3E, 4E / Fixed stage areas) 
+*Anchoring of any equipment or spiking of any instruments into the stage surface is not 
+permitted 
+4.4 Stage Plans 
+Stage plans are available at sydneyoperahouse.com  
+Scaled plans can be requested through SOH Event Operations as PDFs or as 
+Vectorworks files.  
+Email techspec@sydneyoperahouse.com or through your SOH Production Manager.  
+4.5 Auditorium Seating 
+The standard total physical seating in the CH is 2557 arena style in-the-round, with 
+continental seating in the stalls and dress circle. This total includes the stage extension in 
+the ‘deployed’ position (stage level) and does not include accessible seating or standing 
+positions. 
+An additional 52 seats can be added (bringing total venue seating to 2609) by lowering 
+the stage extension and semi-automatically deploying rows A and B. Altering the 
+standard seating layout to include these seats incurs additional labour fees to set and 
+strike. 
+Total capacity needs to account for potential production holds and sightline requirements 
+for specific events, to be discussed with Event Operations prior to on-sale. 
+
+Page 10     Technical and Production Information for the Concert Hall
+
+
+Page 11     Technical and Production Information for the Concert Hall5 Staging 
+5.1 Stage Machinery 
+The Concert Hall is equipped with a sophisticated theatre machinery system with over 
+350 axes of control. The control of all machinery is achieved via a number of touch 
+screen desks and handheld devices with multiple connections points (including wireless) 
+available throughout the venue. 
+The control system may only be operated by SOH staff. 
+Machinery Type Quantity Details 
+Stage Lift 25 Arranged in a semi-circular formation 
+Up-stage Stairs 2 Provide access to choir stalls from up-stage lift 
+Mid-stage Stairs 2 Deploy automatically when required 
+Stage Extension 3 Can be lowered to reveal stalls rows A & B 
+5.1.1 Stage Lifts 
+The primary function of the stage lifts are to provide a stepped semi-circular arrangement 
+for the setting of an orchestra. 
+A majority of the lifts can travel to 0.8m above the fixed stage level (in 0.2m increments) 
+except for a number of up-stage lifts that travel to 1.0m.  
+The furthest up-stage two lifts have a travel of 1.7m above stage level with the most up-
+stage lift providing storage for up to two grand pianos.  
+5.1.2 Stage Lift Accessories 
+Depending upon final configuration required of the stage lifts, additional accessories must 
+be manually deployed: 
+ Handrails 
+ Kick Rails 
+ Removable Fascia 
+ Temporary Step Units 
+5.1.3 Stage Stairs 
+Two up-stage automated stairs form part of the up-stage lift and provide access to the 
+choir stalls. If access to the choir stalls is not required, then these stairs store flat within 
+the up-stage lift providing additional stage area.  
+The two mid-stage stairs are passive and deployed automatically when their adjoining lift 
+travels above stage level.  
+All automated Stage Stairs are only deployed in 0.2m increments.  
+For direct access from stage to auditorium, two step-units are installed and can be 
+removed manually, at additional cost. 
+
+Page 12     Technical and Production Information for the Concert Hall5.1.4 Stage Extension 
+The stage extension is made up of three independently controlled lifts that travel from 
+stage to auditorium level. 
+The two normal configurations are with all three lifts level with one another, either at 
+stage level (venue standard layout) or at auditorium level (-0.90m). 
+Other configurations are available upon consultation, at additional costs. 
+5.1.5 Over-Head Machinery 
+The over-head machinery system is comprised of several different elements that provide 
+a potential lifting capacity of over 30 tonnes, with multi-line winches capable of working in 
+groups (see venue fly plot). 
+Machinery Type Quantity Location 
+2.5t Multi-line Winch (5 lines) 11 Over-stage 
+4.0t Multi-line Chain Motor (5 lines) 4 Over-stage (up-stage area) 
+1.5t Multi-line Winch (4 lines) 4 (2 per side 
+of stage) Over-stage (running up / down on 
+side of stage 
+1.0t Fixed Position Chain Motor 22 Over stalls and circle  
+Due to the unique nature of the CH structure, there are a variety of different restrictions in 
+place on the over-head machinery system. These restrictions include, but are not limited 
+to:  
+ Limiting the overall capacity of fly system in different zones of the roof 
+ Limits on moving multiple elements at once 
+ Reductions in movement speed 
+5.1.6 Specialist Rigging 
+The CH has a number of specific rigging locations throughout the venue for the 
+attachment of event specific equipment. 
+There are five rigging points located above the cannon ports on each side of the stage 
+and five points in the stage walls on each side. Additionally, there are three tie-off points 
+at the back row of each box. 
+
+Page 13     Technical and Production Information for the Concert Hall5.2 Acoustic Systems 
+The CH has various sound reflecting / absorbing systems that optimise the venues 
+acoustics. 
+5.2.1 Over-Stage Reflectors 
+There are eighteen curved reflectors over-stage that trim between 8.5-12.0m from stage 
+level depending on the event requirements. For non-acoustic performances, the 
+reflectors are flown out and tilted to provide clearance for the deployment of the acoustic 
+banners and over-head machinery. 
+
+
+Page 14     Technical and Production Information for the Concert Hall5.2.2 Wall Reflectors 
+There are twenty-two wall reflectors (eleven on each side of the venue) that are deployed 
+from the vertical walls near the ceiling. These reflectors extend from the wall 
+approximately 1.4m and provide additional reflection of sound down to the audience.  
+5.2.3 Acoustic Banners 
+When the CH is in ‘amplified performance’ mode there are five different types of banners 
+that are deployed throughout the venue.  
+Banner Type Quantity Details 
+Crown 
+Banners 15 1.2m - 3.0m in width, deployed from the ceiling above 
+stage, when fully deployed their bottom trim is 
+approximately 10m from stage 
+Drawer 
+Banners 8 Four each side, deployed from the vertical walls near the 
+ceiling above stage when fully deployed their bottom trim is 
+approximately 10m from stage 
+Wall Banners - Banners deploy to cover the walls behind the last row of 
+seats in organ gallery, upper circle and boxes D/E/F/X/Y/Z 
+Box-front 
+Banners 6 Banners extend downwards from a roller blind style 
+mechanism in front of boxes A/B/C/U/V/W 
+Manual 
+Drapes - A series of manually deployed drapes cover the surfaces of 
+the walls surrounding the stage and areas at the rear of the 
+venue 
+Concert Hall – Typical Contemporary Music 
+setup (Amplified Mode) 
+
+Page 15     Technical and Production Information for the Concert Hall5.3 Standard Venue Configuration 
+The CH has many different possible configurations of its installed machinery and 
+systems.  
+Time should be allocated in the schedule to adapt the venue to suit event requirements 
+and then return the venue to its standard configuration at the end of the hire period.  
+The standard configuration of the venue is as follows: 
+ Stage lifts stowed (flat stage) 
+ All acoustic banners stowed 
+ Wall reflectors stowed 
+ FOH control position in stalls retracted and seats in place 
+ Flown audio subs removed 
+
+
+Page 16     Technical and Production Information for the Concert Hall Stage extension deployed (at stage level) with rows A / B retracted 
+ Acoustic reflectors and lighting pods flown to standard trim height (8.5-12.0m) 
+ Auditorium access stair units installed  
+5.4 Standard Staging Equipment 
+The following equipment is included within the venue hire costs: 
+Element Equipment Allocation Details 
+General 
+Furniture Card Table 3 830 x 830mm Square Top 
+Trestle Table 2 1800 x 750 Top 
+Vinyl Chair 10 
+Black Screen 4 
+Wardrobe Wardrobe Rack (large) 7 
+Wardrobe Rack (small) 7 
+Desk Unit 2 Portable with mirror/screen 
+5.5 Additional Staging Equipment 
+The following sections of equipment can be utilised by your production at an additional 
+cost, subject to the requirements of the other venues. 
+5.5.1 Masking 
+Typical theatrical masking such as legs and borders are only appropriate in the Concert 
+Hall for specific situations. Please consult with your SOH Production Manager for the list 
+of masking that may be available at additional cost. 
+5.5.2 Additional Equipment 
+The following equipment can be utilised by your production at an additional cost: 
+Element Equipment Details 
+Rostrum Megadeck 1.2 x 2.4m Carpeted 
+Megadeck 0.4 x 2.4m Carpeted 
+Megadeck 0.8 x 2.4m Carpeted 
+Megadeck 1.0 x 2.0m 
+Megadeck 1.0 x 1.0m 
+Megadeck ‘Wedges’ Brushbox finish, used in conjunction with 
+Stage Risers 
+Megadeck Legs 200 / 350 (rolling) / 400 / 600 / 800mm 
+
+Page 17     Technical and Production Information for the Concert HallElement Equipment Details 
+Floor 
+Covering Black Carpet Full covering of flat stage or tiered risers – 
+installed as acoustic treatment as a part of 
+amplified performances 
+Vinyl Black or White 
+General 
+Furniture Card Table 830 x 830mm Square Top 
+Trestle Table 1800 x 750 Top, Various Colours 
+Cabaret Table 600mm or 900mm Round Top 
+Vinyl Interlocking Chair Black, Padded 
+Orchestral 
+Furniture Padded Orchestral 
+Chair Height Adjustable 
+Music Stand 
+Conductors Stand 
+Bass Spike Board 
+Cello Spike Board 
+Cloths Sharkstooth Gauze Various 
+Filled Cloth Various 
+Push-up Drapes on 
+Poles Black, Various sizes 
+2m Book Flat Masking Black or Grey, Padded 
+1.3m Book Flat Masking Black, Padded 
+Rigging 1T Chain Block 7m chain 
+1/2T Chain Block 
+Tail Pipe 20-25mm, various lengths 
+Mini Quad Truss 100mm, various lengths 
+Tri Truss 300mm, 1m, 2m, &3m lengths 
+Box Truss Limited quantity - various lengths 
+
+Page 18     Technical and Production Information for the Concert Hall6 Lighting 
+6.1 Base Lighting Equipment 
+In addition to venue hire charges, the Base Lighting Equipment package fee includes the 
+following: 
+6.1.1 Control 
+Stage lighting is controlled by an ETC Gio console (located in the control room) with an 
+ETC Gio@5 running as a tracking back-up.  
+Both consoles have 24K channels and use an ETC DMX over Ethernet system for DMX 
+distribution. 
+An ETC Nomad Puck is available for use with Designer’s monitors at the production desk 
+in the auditorium. An ETC Pad (remote control unit) is available for rigging and focussing 
+sessions on-stage.  
+If lighting console operation is required from the stalls, additional seats (minimum of 
+eight) will need to be removed and must be considered prior to tickets going on sale so 
+seats can be reserved. 
+External network devices including tour lighting desks or control surfaces must be pre-
+approved prior to installation onto the local network. 
+6.1.2 Data 
+The CH has an ETC DMX over Ethernet system. It utilises sACN to distribute an almost 
+infinite number of DMX universes.  
+Alternate protocols such as ArtNet are not permitted to run on the House network. If 
+protocols other than sACN are required, please discuss with SOH.  
+Data appears in the control room, the dimmer rooms, on the stage platform, in stage 
+wings and in the stalls at the FOH stalls operating position. Some points have 
+permanently installed Ethernet to DMX nodes. Extra nodes can be installed on request.  
+6.1.3 Power  
+All general and dimmed electrical power supplies are 240V AC @ 50Hz.  
+Two 400A 3-phase power-lock connections are available (one in each stage wing).  
+These two connections share a 600A breaker. Additional 50A 3-phase Clipsal 
+connections are available throughout the stage, wings, and other strategic locations. 
+SOH can install additional dimmer racks if required, by prior arrangement. Electrical 
+installations may only be performed by SOH staff and all requirements must be 
+discussed in advance.  
+6.1.4 Dimmers  
+The CH has over 618 channels of 3kw dimming / switched dimming and 52 5kw dimming/ 
+switched dimming.  
+While a number of these dimming channels are dedicated to the fixed lighting positions, 
+there are over 350 channels available for temporary event overlay including 146 
+channels on-stage level and 216 channels located within the lighting cable reelers. 
+
+Page 19     Technical and Production Information for the Concert Hall6.1.5 Lighting Pods 
+There are sixteen, height variable lighting pods over-stage providing top and front light for 
+orchestral arrangements. 
+The pods contain ETC Pro Eight-Cell lights that are non-zoomable and fixed colour 
+temperature which emulates tungsten and also provide work light for stage. These lights 
+are fixed focus and cannot be adjusted for other events.  
+Additionally, each lighting pod also contains one SolaFrame Studio moving head fixture 
+which can provide a colour or gobo stage wash. Each light also contains shutters that 
+can be used for specials as required. Due to the nature of the lighting pods, position 
+changes can only be achieved at very low speed.
+6.1.6 Cannon Ports 
+Above each side of the stage, within the bulkhead above the boxes, are eight MAC 
+encore performance WRMs (four on each side). When not required, the fixtures are 
+retracted into the vertical walls.  
+6.1.7 Fixed Lighting Positions 
+There are several fixed lighting positions throughout the venue that can be used for 
+performances as required. Some of these positions have a fixed focus (typically for 
+orchestral lighting) while other positions can be adjusted to suit the needs of a particular 
+event. The table below provides a detailed overview of the lighting positions, the 
+equipment, and any other notes.  
+Position Equipment Details 
+FOH Bridge 2 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting 
+FOH Bridge 3 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  
+FOH Bridge 4 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  
+Back Spots ETC Source4 LED Series 3 10 variable focus per side 
+Cannon Ports MAC Encore Performance WRM  4 per side  
+Lighting Pods ETC Pro Eight-Cell Fixed focus 
+Lighting Pods SolaFrame Studio 1 per pod 
+Crown Lighting LDOH005 INCAND AIR RGBAW 
+Followspot Booth Robert Juliat Arthur LT LED Followspot 2 per side 
+Organ Lighting LED strip Fixed focus 
+6.1.8 House Lights 
+The house lights are RGBAW LED fixtures which can emulate tungsten, but if required 
+also provide the ability to change colour and isolate specific areas.  
+6.1.9 Crown Lights 
+The crown lights are RGBAW LED fixtures which can emulate tungsten but also provide 
+the ability to change colour. Due to the reflectors and lighting pods permanently hung in 
+the venue these lights do not provide lighting for the stage platform and serve as 
+architectural lighting elements that match the existing house lights.  
+
+Page 20     Technical and Production Information for the Concert Hall6.2 Additional Lighting Equipment 
+The following equipment is dedicated to the venue and can be utilised by your production 
+at an additional cost: 
+Lamp Type Allocation 
+ Martin Mac Viper Performance 8 
+ Martin Mac Viper Profile 10 
+ Martin Quantum Profile 18 
+ Martin Quantum Wash 18 
+ Martin Mac 101 CW 8 
+Additional lamp and effects stock are available upon request 
+6.2.1 Followspots 
+Four Robert Juliat Arthur LT  800W LED followspots with manual colour changers are 
+permanently located above the dress circle in a dedicated followspot room.  
+The angle to the down-stage edge of the stage is approximately 30º and the throw is 
+36m.  
+6.2.2 Music Stand Lights 
+24V LED sconce lights are available to fit music stands at an additional cost. 
+6.2.3 Smoke and fog machines 
+Two Unique haze machines are permanently installed in the up-stage cannon port 
+positions – one each side of stage.  
+Smoke or haze cannot be used in the Concert Hall while the Grand Organ is in use, and 
+special effects of any type are not permitted to be installed in or around the organ loft. 
+Oil-based machines are not permitted at any time. 
+
+Page 21     Technical and Production Information for the Concert Hall7 Sound & Audio Visual 
+7.1 Base Sound Equipment 
+In addition to venue hire charges, the Base Sound Equipment package fee includes the 
+following: 
+7.1.1 Loudspeaker System 
+The venue has a D&B Audiotechnik loudspeaker system, with some elements requiring 
+to be set-up production dependant: 
+Component Equipment Allocation
+Main Flown System Left: 6 x KSL8 over 4 x KSL12 10 
+Centre: 6 x KSL8 over 4 x KSL12 10 
+Right: 6 x KSL8 over 4 x KSL12 10 
+Subs* Flown: SL Sub Flown behind 
+centre array4 
+Floor: SL Sub or V-sub 2 
+Delay and Fill Image fill: V7p or 44s 2 
+Circle Delay: V10p 3 
+Side Box Fills: Y10p 6 
+Side Box Fills: Y7p 2 
+Side Box Fills: E8 6 
+Side Box Fills*: E4 20 
+Front Fill*: 44s or T10 8 
+*Deployment of these elements incurs additional labour and time 
+7.1.2 System Processing and Routing 
+System processing is performed by the installed amplifiers and a D&B DS100 signal 
+engine. Signal distribution to these devices is over a Dante Network. 
+7.1.3 Technical Panels & Audio Routing 
+The CH has an extensive installation of cabling infrastructure to send audio and video 
+signals throughout the venue. 
+The majority of the infrastructure home-runs are to the venue patch room. The patch 
+room, located off the Assembly Room on Level 1, is also home for audio drive 
+equipment, stage management system equipment and patching. 
+Point to point patching of copper and fibre is also available from FOH mix position in the 
+stalls to side of stage for touring applications:  
+ 8 Pairs of multi-mode fibre  
+
+Page 22     Technical and Production Information for the Concert Hall 8 Cat6 
+ 8 75Ohm BNC 
+ 8 Individual XLR audio tie lines and 96 channels of audio tie lines (via 2x150 
+pin LK connectors) 
+ 8 Pairs of multi-mode fibre connect OP to FOH 
+7.2 Additional A/V Equipment 
+The following equipment can be utilised by your production at an additional cost: 
+7.2.1 Mixing Console - FOH Stalls 
+Permanently installed SSL Live L650 system comprising of  
+ 144 microphone preamplifiers 
+ 32 Line in/out 
+ 32 AES in/out  
+Outboard FX 
+ 2 x Bricasti M7 
+ Waves Extreme Server running Waves Mercury V14 
+To accommodate the stalls FOH mix position, 14 seats must be removed from the stalls 
+in rows W and X. 
+7.2.2 Mixing Console - Box A / U Position 
+An operating position is available behind box A or U and does not require the removal of 
+any seats. This position is only used for productions with minimal audio requirements and 
+utilises a small mixing desk.  
+The standard set-up for this position is a Yamaha QL1 desk behind Box U.  
+7.2.3 Monitor Console 
+An SSL Live L650 console is available in a rolling case to be setup side of stage. I/O is 
+permanently installed, the monitor system is comprised of 
+ 144 microphone preamplifiers 
+ 32 Line in/out 
+ 32 AES in/out  
+
+Page 23     Technical and Production Information for the Concert HallThe following equipment can be utilised by your production at an additional cost: 
+Equipment Model 
+Mixing Consoles/Remote 
+Surfaces SSL L650 Console 
+SSL L350+ Console 
+SSL Remote Tile with a touchscreen running SOLSA 
+software 
+Yamaha QL1 Console 
+Stage Monitors  D&B Audiotechnik M4 
+D&B Audiotechnik Y-SUB 
+D&B Audiotechnik V series line array 
+D&B Audiotechnik V-Sub 
+D&B Audiotechnik V10P 
+D&B Audiotechnik Y10P 
+D&B Audiotechnik Y7P 
+D&B Audiotechnik E8 
+Radio Microphones – 
+Belt-packs 
+(Shure Axient Wireless 
+System) AXT 100 Belt Packs: 
+DPA 4066 
+DPA D:Fine 
+DPA D:Fine 66 
+DPA 4061 
+DPA 4080 
+DPA 6066 
+Radio Microphones – 
+Handhelds 
+(Shure Axient Wireless 
+System) AXT 200 Handhelds: 
+Shure KSM9 
+Shure Beta 58 
+Shure SM58 
+Shure In-Ear Monitors Stereo PT10T dual wireless transmitters 
+P10R wireless body-pack receivers 
+SE425 earpieces 
+Wired Microphones SOH have a wide range of microphones from brands such 
+as Sennheiser, Shure, AKG, DPA, Beyer and Neumann and 
+offers a variety of packages to suit 
+Additional Playback MacBook Pro running QLab 
+
+Page 24     Technical and Production Information for the Concert Hall7.2.4 Video Replay 
+The Sound & AV department has a range of playback options and switchers. SOH vision 
+equipment is shared between all venues and its use in the CH is subject to availability 
+and will incur additional charges. 
+Equipment Model 
+Switchers Barco Image Pro 
+Blackmagic Design ATEM 2 M/E Production Studio 4K 
+Vision Playback  MacBook Pro 
+Sound Devices Pix 270i 
+7.2.5 Projection and Video Monitors 
+There are several options available for projector placement within the venue, including 
+front and rear projection. Please note that in order to facilitate projection, truss and a 
+screen must be rigged. 
+Element Equipment 
+Projectors Barco HDX 14k 
+Screens Stumpfl 7.3m x 4.1m (24ft x 13.5ft) 16:9 ratio FastFold  
+Stumpfl 6.1m x 3.4m (20ft x 11.3ft) 16:9 ratio FastFold 
+Stumpfl 4.8m x 2.7m (16ft x 9ft) 16:9 ratio FastFold 
+Stumpfl 3.6m x 2.1m (12ft x 7ft) 16:9 ratio FastFold 
+Video Monitors LCD 75”  
+LCD 55” 
+Sony OLED 17” 
+Photo: Prudence Upton
+Credit Prudence Upton 
+
+Page 25     Technical and Production Information for the Concert Hall8 Pianos 
+The following pianos are included within venue hire costs, and are located in the 
+following BOH spaces as standard: 
+Dressing Room Piano 
+DR58 Yamaha Model C5 
+DR72 Steinway Model A 
+DR73 Yamaha Upright (S1 Pro) 
+DR74 Steinway Model B 
+DR76 Steinway Model O 
+DR61 Yamaha Upright 
+DR62 Yamaha Upright 
+Performance pianos for stage and associated tuning costs are additional to venue hire. 
+8.1 Grand Organ 
+The Grand Organ is an exceptionally significant instrument and must be treated with 
+care.  
+In order to protect the instrument from damage, only authorised performers are allowed 
+access to the organ loft area. 
+There are two colour CCTV monitors, a full stage-view and a conductor-view (which can 
+be mirror-reversed if required). 
+There is a fold-back speaker from the stage to the organ, and a microphone connection 
+for the organist to communicate with the conductor or the audience. 
+Communications with the SM is via cue lights and direct communication can be arranged 
+upon request. 
+SOH require that organists who are not acquainted with the organ attend a familiarisation 
+session with the organ tuner. 
+Smoke or haze effects cannot be used in the CH when the organ is in use.  
+For safety reasons, venue technical set-ups cannot continue while the organ is being 
+played, therefore organ pre-setting and rehearsal time needs to be scheduled 
+independently of your technical time. 
+
+Page 26     Technical and Production Information for the Concert Hall9 Communications 
+9.1 Stage Management Desk 
+A Stagetec Stage Management Desk (SMD) is located in Prompt Corner (stage left). The 
+desk is fully programmable, includes four broadcast-quality show relay screens, a 
+telephone, two integrated Riedel Artist communications panels and dynamically 
+assignable tactile LED buttons.  
+The SMD controls audio and video relay to both FOH and BOH spaces, and can be used 
+to broadcast live or pre-recorded announcements to backstage or foyer spaces.  
+There is an automatic message stacking facility to prevent conflict with other venues 
+when announcements are simultaneously sent from other venues to common areas of 
+the building, such as the Green Room (GR). Features include dynamic allocation of 
+paging, program audio relay, cue lights, and foyer bells.  
+FOH functions are generally managed by the Theatre Manager from a touch screen in 
+the foyer, however these functions are also accessible at the SMD. 
+9.2 Show Relay 
+9.2.1 Longview 
+A low latency, colour image of the venue stage is distributed to the SMD, stage wings, 
+lighting control, sound control, GR, some dressing rooms, and venue foyers. The SM has 
+pan, tilt, and zoom control of the long-view camera. A low-light camera is also 
+permanently installed and sends vision to the SMD. 
+9.2.2 Conductor View 
+An image of the conductor from a low latency camera under the organ loft is distributed 
+to the SMD, stage wings and to two 24” Sony monitors in the TV booths at the rear sides 
+of the stalls.  
+The SM has pan, tilt, and zoom control of the conductor view camera. 
+9.2.3 Door Cameras 
+When stage doors are closed, low latency screens and cameras mounted above each 
+pair of doors provide an on-stage view in order to facilitate exits / entrances. 
+9.2.4 Temporary Show Relay 
+Temporary show relay screens can be deployed around the venue, foyers and 
+throughout the wider precinct by prior arrangement and additional cost. 
+9.3 Headset Communications  
+A Riedel Artist wired intercom system operates across all venues. Permanent talkback 
+stations are available in lighting and sound control locations, and wired headset tie lines 
+are installed at all regular operating positions.  
+A Riedel Bolero wireless beltpack system is fully integrated with the Riedel Artist wired 
+intercom system, and is included within venue hire costs as per the below table: 
+Equipment Allocation Details 
+Wireless Beltpack Comms 19 Riedel Bolero BBP 
+Additional units may be provided upon request at a per unit charge 
+
+Page 27     Technical and Production Information for the Concert Hall10 Backstage Facilities 
+10.1 Dressing Rooms  
+The venue includes use of eleven associated dressing rooms. The dressing rooms are all 
+located close to the Green Room, one level beneath stage. 
+Dressing Room Details Allocation
+Soloist’s Rooms Accommodate two to four artists each 
+Rooms include an ensuite bathroom with shower, 
+toilet, and locker facilities 7 
+Conductor Suite 
+(DR 72) Reserved for conductors, soloists, or company 
+management 
+This room has a lounge area with a baby-grand piano, 
+a writing desk, and a television with relay view of the 
+stage 
+Dressing facilities include a dressing table, full-length 
+mirror, wardrobe rack and an en-suite bathroom 1 
+Other Dressing 
+Rooms Event Operations to advise based on availability 
+Lockers in the dressing rooms are fitted with a staple and hasp. In order to lock a locker, 
+a performer or presenter should bring their own padlock/s. Lockers must be cleared at 
+the conclusion of the hiring period, or at the end of each day where other hirers will be 
+using the CH between your sessions.  
+10.2 Rehearsal Rooms 
+The CH has two rehearsal rooms (RR 78 / 79) for use by hirers during their booking 
+period. The rooms are located beneath the Assembly Room and have the capacity of up 
+to five people depending on musical equipment requirements. 
+Due to the acoustic overlay within the rooms the use of the rehearsal rooms are only for 
+singers and musicians and are not to be used as additional dressing or storage rooms. 
+The rehearsal rooms are also shared by hirers from other SOH venues. Coordination and 
+use of these rooms must be confirmed in advance.  
+10.3 Laundry Facilities 
+Venue laundry allocation: 
+Equipment Allocation 
+Electric clothes dryer 1 
+Top loading clothes washing machine 1 
+
+Page 28     Technical and Production Information for the Concert Hall11 Protection of Building Surfaces 
+Appropriate measures must be taken to ensure the protection of all SOH building fabrics 
+and surfaces, including wood, granite, glass, ceramics, concrete, and bronze.  
+Prior consultation and approval is required for any plans to attach to or penetrate building 
+surfaces.  
+You must provide suitable rubber pads, plywood sheets, or plastic to protect all building 
+surfaces including but not limited to floors, walls, chairs, and ceilings.  
+The use of paints or chemicals on SOH building surfaces or fixtures is prohibited. 
+Similarly, any use of water, soaps, or cleaning fluids of any kind must be pre-approved by 
+Building Operations. 
+

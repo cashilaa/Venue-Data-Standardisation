@@ -1,0 +1,9 @@
+Equipment Type,manufacturer,model,quantity,Resolution,Input Types,Notes,equipment_type
+Projector,Barco,UDX-4K32,2,4K (3840x2400),HDMI/DisplayPort/SDI,"32,000 lumens laser projector",lighting
+Projector Screen,Da-Lite,Truss Style,2,20' x 11.25',,16:9 aspect ratio,lighting
+Video Mixer,Blackmagic,ATEM 2 M/E Production Studio 4K,1,4K,20 inputs,Advanced video switching,lighting
+Scaler,Extron,DSC HD-HD,2,1080p,HDMI/DVI/VGA,Signal conversion and scaling,lighting
+Monitor,Dell,P2418D,3,2560x1440,HDMI/DisplayPort,Preview monitors,lighting
+Camera,Sony,PXW-FS7,2,4K,,Production cameras,lighting
+Media Server,Disguise,gx 2c,1,4K outputs,Various,Content playback system,lighting
+Distribution,Crestron,DM-MD16x16,1,4K,HDMI/HDBaseT,Signal distribution matrix,lighting

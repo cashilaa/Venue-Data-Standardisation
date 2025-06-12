@@ -1,0 +1,9 @@
+model,manufacturer,Model Name,quantity,power,DMX Channels,Beam Spread,Notes,equipment_type
+PAR,ETC,Source Four PAR,24,575W,1.0,25-45 degrees,With various lens options,lighting
+Moving Head,Martin,MAC Quantum Profile,12,900W,41.0,10-40 degrees,Full color mixing capability,lighting
+Moving Head,Robe,Pointe,8,470W,30.0,5-20 degrees,Beam/Spot/Wash,lighting
+Strobe,Martin,Atomic 3000,6,3000W,1.0,120 degrees,High-intensity strobe,lighting
+Fresnel,ETC,Source Four Fresnel,16,750W,1.0,18-65 degrees,With barndoors,lighting
+LED,Chauvet,COLORado 1-Tri Tour,20,50W,7.0,15 degrees,RGB color mixing,lighting
+Follow Spot,Robert Juliat,Korrigan,2,1200W,,5-9 degrees,Manual operation,lighting
+Haze,MDG,Atmosphere,1,715W,2.0,,Water-based haze machine,lighting

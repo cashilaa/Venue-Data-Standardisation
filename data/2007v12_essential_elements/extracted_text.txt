@@ -1,0 +1,195 @@
+ MODERN STEEL CONSTRUCTION  DECEmbEr 2007
+London’s new O2 Arena uses a steel roof, erected with an  
+innovative lifting operation, to top what was designed to be  
+Europe’s most acoustically advanced concert venue.Essential Elements
+by KEn JonEsinternational projects
+TThERE’S bEaUTIfUL MUSIC COM-
+INg fROM gREENwICh, LONDON. 
+More specifically, it’s coming from the new 
+O2 Arena. Built within London’s existing 
+Millennium Dome structure, the recently opened arena provides London with a 
+22,000-seat state-of-the-art entertainment 
+venue. Designed to be the most technically and acoustically advanced concert arena in Europe, it also plays host to multiple sport-
+ing events.
+geometry and Design
+The spherical surface of O
+2 Arena’s 
+roof has a radius of 1,145 ft and is exactly 
+parallel to the surface of the dome canopy 
+above. (The project’s structural engineer, 
+Buro Happold, also designed the original award-winning cable-net structure of the Millennium Dome itself, now called The 
+O
+2.) The structure comprises intersecting planar trusses of depths varying between 
+13 ft and 36 ft. The radial trusses cantile-
+ver by up to 72 ft beyond perimeter trusses 
+that form a ring inside the roof support bearings and cores. The slender roof edge is dressed with a smooth “bullnose” clad-
+ding detail that undulates and seemingly 
+floats in space over the upper concourse.
+Buro Happold created a three-dimen-
+sional structural model of the project using Microstation, and Structural design analy-
+sis was carried out using STAAD.Pro. The 
+ductwork and catwalk systems were fully integrated and coordinated into the design from the outset. The fabricator, Watsons 
+Steel, then progressed with the steelwork 
+production drawings using the 3D model as a starting point. During the initial stages of connection design, Watsons seconded an engineer to work in the Buro Happold 
+offices, which aided the full understanding of the critical joint issues from the project’s 
+early stages.
+The Roof
+Constructing a building within a build-
+ing created many challenges. For start-
+ers, the seating bowl design limited the 
+space available for the new roof construc-tion beneath the existing dome canopy; a minimum 16.5 ft of clearance between the new arena roof and the existing structure 
+was required for building environment 
+and smoke management considerations. The use of standard cranes was clearly not an option because of the proximity of the 
+existing dome structure.
+The whole roof was built at ground level, 
+including all catwalks, services contain-
+ment, ductwork, gondola winch platform, perimeter bullnose, gutters, fall-arrest sys-
+tems, and acoustic cladding. It was built on 
+
+  DECEmbEr 2007  MODERN STEEL CONSTRUCTION 
+a series of temporary trestles and then lifted 
+by the strand-jacking method in a virtually completed condition. Working at this low 
+vertical level maximized access and speed 
+of construction and also improved safety. 
+Roof support was accomplished using 
+only eight bearing points; the roof “floats” 
+above the upper seating bowl and upper 
+circulation concourse. It was lifted by strand jacks acting on the eight permanent support bearing points. The contractor chose to lift the roof in one piece, although 
+the original concept allowed for raising it 
+in several discrete, independently stable pieces, thereby enabling the progressive construction of the building frame below.
+Each of the concrete cores at the eight 
+points was designed so that the roof “slot-ted” into a gap in the core, allowing the roof to be lifted from directly above the bearing point. In two of the cores, several sections of floor slab were eliminated so that the roof steel could move vertically up past the floor edges. These were added at a 
+later date. At four of the cores, quadruped 
+support frames fitted into a free gap. They were hung from the end of the primary truss nodes as a means of lifting them to the 
+top of the cores. Once the roof was posi-
+tioned at the correct level, the quadrupeds were rotated and dropped onto the top of the core to support the roof.
+The Lift Operation
+T emporary steel lifting frames, with 
+strand-climbing jacks, were positioned at 
+the head of each core and used to lift the 
+roof. All the jacks were controlled from 
+a central computer, enabling them to be operated individually or simultaneously. Due to a lack of space above the temporary lifting frames, climbing jacks, rather than 
+top-mounted jacks, were used.
+Buro Happold worked closely with Wat-
+sons Steel and specialist lifter PSC Fagioli 
+on the design of the lifting frames, the lift 
+sequences, monitoring, and method state-
+ments. Some of the concrete cores were slender, with tall temporary steel frames mounted on them. Detailed non-linear buckling analysis of the combined roof, lift-
+ing frame, and core assemblies was carried 
+out, together with independent checks on the design of the frames themselves, using the analysis results. Developments to the 
+design of the lifting frames were made to 
+ensure a rigorously checked and safe over -
+all build sequence.
+Lifting the roof safely required tight 
+dimensional control and monitoring dur -
+ing the operation. The strands needed to remain within only 1 in. of vertical in order to avoid excessive lateral loads to the lift-ing frames, especially as the strands short-
+ened at the top of the lift. In addition, the 
+roof needed to remain almost perfectly horizontal, within a band of 1.2 in., so that the trusses and connections were not over -
+stressed by a temporary condition in the 
+process.
+The lift operation was split into two 
+stages—an 36-ft lift and a 52-ft lift—giving 
+a total roof elevation of 88 ft. Each stage 
+took three night shifts to complete, allow-
+ing other construction work to continue throughout the day. Particular care was taken on “lift-off” when the temporary 
+frames rapidly picked up their full load 
+and the roof swung free. During this step, a swing of only 0.40 in. to the north was experienced, which was testament to the accuracy of the construction, positioning, by the Numbers
+arena roof steel: 2,800 tons
+Main span: 421 ftapprox. roof area: 186,000 sq. ftSeating capacity: 22,000Primary truss depth: 36 ft (max.)
+Primary truss chord: 30-in.-
+diameter by 2.2-in.-thick tubes
+building height: 154 ft
+Roof lift weight: 4,400 tonsand robustness of the temporary lifting 
+frames. In the three weeks between the 
+two lift operations, the strand jacks were locked off and packs inserted as a precau-tion to control any tendency toward lateral 
+movement. The roof hung on its strands 
+while work continued to complete the final cladding envelope work, such as movement joint in-fill sections.
+The lift progress was hampered by the 
+need to constantly correct for level after every few jack strokes, in order to remain within the required tolerances. Problems with survey monitoring points and survey 
+equipment were encountered periodi-
+cally, but were overcome. Maintaining a balanced force within a pair of jacks at a single suspension point caused consterna-tion at times. T o combat this, movements 
+were surveyed, plotted, and monitored for 
+all core lift points (using survey targets mounted near the top and bottom posi-tion of the strands), as well as for some of 
+the slender concrete cores. An automated 
+surveying system was used so that measure-
+ments could be taken regularly, allowing 
+the lift to proceed as quickly as possible.
+Building the temporary lifting frames 
+was a feat in and of itself, involving smaller 
+jacking processes to push the 12-ton lift 
+beams to within 5 ft of the underside of the existing cable net.
+Design features
+As predicted and expected, large vertical 
+structural deflections occurred at the time 
+of lift-off from the ground level trestles. This formed an important and unique 
+challenge for the structural design, one 
+that is not often encountered in this way. T o accommodate this movement, an exten-sive network of joints in the steelwork and 
+cladding was incorporated. Steelwork joint 
+movements were monitored before, dur -
+buro Happold
+
+ MODERN STEEL CONSTRUCTION  DECEmbEr 2007ing, and after the initial lift, and this work 
+showed the structure to have behaved as planned, with joints opening or closing by 
+the predicted amount.
+The catwalks and network of rigging 
+beams at the level of the truss bottom 
+chords are configured to support the com-
+plex sports lighting requirements and con-
+cert rigging demands. A maximum rigging load of 110 tons plus 22 tons of center-hung scoreboard can be suspended in the roof. In addition, the roof is “future-proofed” for 
+possible external conditions, such as wind 
+and snow, in the event that the dome can-opy is removed.
+The scoreboard can be fully retracted 
+into the roof volume using the winch plat-form at the center of the roof to make way for in-the-round event configurations. Buro Happold continues to work with and advise the client on specific concert rigging 
+requirements.
+Roof Cladding
+The cladding is tuned for optimum acous-
+tic performance for break-out, break-in, and 
+reverberation time. It is designed to be the most acoustically advanced venue in Europe. The cladding is also used as a “stressed skin” structure, in order to economize on the steel weight in the purlin members.
+Cladding build-up options were tested 
+against prescribed acoustic performance requirements, and the resulting deck weighs a hefty 14 psf, including an 8-in.-deep steel profile decking with acoustic absorption 
+panels fixed to the soffit of each trough.
+A large (approximately 52 ft by 46 ft) 
+cladding and purlin trial panel was built, 
+which proved to be extremely useful for many reasons:
+T o check buildability of warped clad-✓✓
+ding fixed to spherical-faceted purlinsAs a physical fit-up test for complex ✓✓
+purlin-to-truss steelwork bracket con-
+nections (also a function of spherical 
+geometry)As an aid to test options for the cladding ✓✓
+movement joints and edge support trimT o develop and hone a safe method of ✓✓
+cladding installationT o force coordination and collabora-✓✓
+tion between all parties in advance of the main fast-track build (cladding 
+contractor, steelwork contractor, main 
+contractor, cladding designer, acoustics engineer, structural engineer, and pro-curement parties)T o “de-risk” the construction process ✓✓
+(faster, safer, etc.)The panel, although large, is certain 
+to have paid for itself many times over in terms of improved overall project perfor -
+mance and product quality.
+Tight Space, Tight Schedule
+All told, the O
+2 Arena is a stunning 
+venue with a special and unique design. 
+The construction and lifting of the roof 
+by controlled strand jacking of the whole 
+4,400-ton assembly was skillfully and safely achieved to a tight schedule, despite the challenges of construction within an exist-
+ing building.  
+Ken Jones is Structures Group Director with 
+Buro Happold’s Bath, UK, office.
+Owner
+Anschutz Entertainment Group, London
+architect
+HoK sport, London
+Structural Engineer
+buro Happold, bath, UK
+Contractor
+sir robert mcAlpine, London
+above: The roof structure was built at ground level on a series of 
+temporary trestles.
+below: The roof structure in its final postion.buro Happold/Adam Wilson buro Happold/Adam Wilson
+buro Happold/Adam WilsonEach of the concrete 
+cores at the eight points was designed so that the roof “slotted” into a gap in the core, allowing the roof to be lifted from directly above the bear -
+ing point. 
+The end result is the o
+2 Arena, Europe’s 
+most  acoustically advanced concert venue.
+buro Happold
+

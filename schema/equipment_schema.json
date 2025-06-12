@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "equipment_types": [
+    {
+      "type": "lighting",
+      "fields": [
+        {"name": "model", "description": "Model name/number of the lighting equipment", "required": true, "aliases": ["model", "model_type", "name", "fixture_type"]},
+        {"name": "manufacturer", "description": "Manufacturer of the lighting equipment", "required": true, "aliases": ["brand", "make", "manufacturer", "company"]},
+        {"name": "quantity", "description": "Number of units available", "required": true, "aliases": ["qty", "count", "amount", "units", "quantity"]},
+        {"name": "power", "description": "Power requirements in watts", "required": false, "aliases": ["wattage", "power_consumption", "watts", "w"]},
+        {"name": "dmx_channels", "description": "Number of DMX channels required", "required": false, "aliases": ["channels", "dmx", "channel_count"]},
+        {"name": "beam_angle", "description": "Beam angle in degrees", "required": false, "aliases": ["angle", "beam", "spread"]},
+        {"name": "color", "description": "Color capability", "required": false, "aliases": ["color_type", "color_mode", "colors"]},
+        {"name": "notes", "description": "Additional information", "required": false, "aliases": ["comments", "additional_info", "description"]}
+      ]
+    },
+    {
+      "type": "sound",
+      "fields": [
+        {"name": "model", "description": "Model name/number of the sound equipment", "required": true, "aliases": ["model", "model_type", "name", "type"]},
+        {"name": "manufacturer", "description": "Manufacturer of the sound equipment", "required": true, "aliases": ["brand", "make", "manufacturer", "company"]},
+        {"name": "quantity", "description": "Number of units available", "required": true, "aliases": ["qty", "count", "amount", "units", "quantity"]},
+        {"name": "power", "description": "Power requirements in watts", "required": false, "aliases": ["wattage", "power_consumption", "watts", "w"]},
+        {"name": "frequency_response", "description": "Frequency response range", "required": false, "aliases": ["frequency", "response", "freq_range"]},
+        {"name": "max_spl", "description": "Maximum sound pressure level", "required": false, "aliases": ["spl", "max_volume", "output"]},
+        {"name": "notes", "description": "Additional information", "required": false, "aliases": ["comments", "additional_info", "description"]}
+      ]
+    },
+    {
+      "type": "video",
+      "fields": [
+        {"name": "model", "description": "Model name/number of the video equipment", "required": true, "aliases": ["model", "model_type", "name", "type"]},
+        {"name": "manufacturer", "description": "Manufacturer of the video equipment", "required": true, "aliases": ["brand", "make", "manufacturer", "company"]},
+        {"name": "quantity", "description": "Number of units available", "required": true, "aliases": ["qty", "count", "amount", "units", "quantity"]},
+        {"name": "resolution", "description": "Display resolution", "required": false, "aliases": ["res", "display_resolution", "output_resolution"]},
+        {"name": "input_types", "description": "Supported input connection types", "required": false, "aliases": ["inputs", "connections", "input_connections"]},
+        {"name": "notes", "description": "Additional information", "required": false, "aliases": ["comments", "additional_info", "description"]}
+      ]
+    }
+  ]
+}

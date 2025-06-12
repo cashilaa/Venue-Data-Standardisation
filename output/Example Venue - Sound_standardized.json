@@ -1,0 +1,112 @@
+[
+  {
+    "Equipment Type":"Line Array",
+    "manufacturer":"d&b audiotechnik",
+    "model":"V8",
+    "quantity":12,
+    "power":"1000W",
+    "Frequency Response":"70Hz-18kHz",
+    "Max SPL":"139dB",
+    "Additional Information":"Main PA system",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Subwoofer",
+    "manufacturer":"d&b audiotechnik",
+    "model":"V-SUB",
+    "quantity":8,
+    "power":"2000W",
+    "Frequency Response":"37Hz-115Hz",
+    "Max SPL":"137dB",
+    "Additional Information":"Flown with main array",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Monitor",
+    "manufacturer":"L-Acoustics",
+    "model":"X15 HiQ",
+    "quantity":8,
+    "power":"1000W",
+    "Frequency Response":"55Hz-20kHz",
+    "Max SPL":"138dB",
+    "Additional Information":"Stage floor monitors",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Digital Mixer",
+    "manufacturer":"DiGiCo",
+    "model":"SD10",
+    "quantity":1,
+    "power":null,
+    "Frequency Response":null,
+    "Max SPL":null,
+    "Additional Information":"48 input channels",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Microphone",
+    "manufacturer":"Shure",
+    "model":"SM58",
+    "quantity":20,
+    "power":null,
+    "Frequency Response":"50Hz-15kHz",
+    "Max SPL":null,
+    "Additional Information":"Vocal microphones",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Microphone",
+    "manufacturer":"Shure",
+    "model":"SM57",
+    "quantity":15,
+    "power":null,
+    "Frequency Response":"40Hz-15kHz",
+    "Max SPL":null,
+    "Additional Information":"Instrument microphones",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Microphone",
+    "manufacturer":"Neumann",
+    "model":"KM184",
+    "quantity":8,
+    "power":null,
+    "Frequency Response":"20Hz-20kHz",
+    "Max SPL":null,
+    "Additional Information":"Condenser microphones",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Microphone",
+    "manufacturer":"AKG",
+    "model":"C414",
+    "quantity":4,
+    "power":null,
+    "Frequency Response":"20Hz-20kHz",
+    "Max SPL":null,
+    "Additional Information":"Multi-pattern condenser",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"DI Box",
+    "manufacturer":"Radial",
+    "model":"J48",
+    "quantity":12,
+    "power":null,
+    "Frequency Response":null,
+    "Max SPL":null,
+    "Additional Information":"Active DI boxes",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Processing",
+    "manufacturer":"BSS",
+    "model":"Soundweb London",
+    "quantity":2,
+    "power":null,
+    "Frequency Response":null,
+    "Max SPL":null,
+    "Additional Information":"System processing",
+    "equipment_type":"lighting"
+  }
+]

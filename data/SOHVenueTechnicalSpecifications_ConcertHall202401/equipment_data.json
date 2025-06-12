@@ -1,0 +1,449 @@
+{
+  "lighting": [
+    {
+      "raw_text": "2 Additional Lighting Equipment 20",
+      "equipment_type": "lighting"
+    },
+    {
+      "model": "Venue Standard Configuration\n\nPage 2     Technical and Production Information for the Concert HallContents \n1 Introduction 3\n1.1 List of Acronyms 3\n2 Risk Management 4\n3 Venue Access 5\n3.1 Getting to Stage Level 5\n3.2 Anteroom to Stage 6\n4 Venue Dimensions 7\n4.1 Plan Dimensions 7\n4.2 Section Dimensions 8\n4.3 Stage Surface 9\n4.4 Stage Plans 9\n4.5 Auditorium Seating 9\n5 Staging 11\n5.1 Stage Machinery 11\n5.2 Acoustic Systems 13\n5.3 Standard Venue Configuration 15\n5.4 Standard Staging Equipment 16\n5.5 Additional Staging Equipment 16\n6 Lighting 18\n6.1 Base Lighting Equipment 18\n6.2 Additional Lighting Equipment 20",
+      "quantity": "7",
+      "description": "Sound ",
+      "equipment_type": "lighting",
+      "raw_text": "Venue Standard Configuration\n\nPage 2     Technical and Production Information for the Concert HallContents \n1 Introduction 3\n1.1 List of Acronyms 3\n2 Risk Management 4\n3 Venue Access 5\n3.1 Getting to Stage Level 5\n3.2 Anteroom to Stage 6\n4 Venue Dimensions 7\n4.1 Plan Dimensions 7\n4.2 Section Dimensions 8\n4.3 Stage Surface 9\n4.4 Stage Plans 9\n4.5 Auditorium Seating 9\n5 Staging 11\n5.1 Stage Machinery 11\n5.2 Acoustic Systems 13\n5.3 Standard Venue Configuration 15\n5.4 Standard Staging Equipment 16\n5.5 Additional Staging Equipment 16\n6 Lighting 18\n6.1 Base Lighting Equipment 18\n6.2 Additional Lighting Equipment 20 7 Sound "
+    },
+    {
+      "model": " larger door and lack of permanent infrastructure within the wing area. PS access \nis slightly more restrictive with reduced clearance between anteroom and wing.  \nKey Stage Access Dimensions Height Width \nA Doors from wings to stage (all 4) 2.20m 2.00m \nB Minimum clearance from anteroom to OP wing 2.20m 2.80m \nC Minimum clearance from anteroom to PS wing 2.20m 1.70m \nD Anteroom ceiling height 2.25m - \nE Height clearance to down stage doors 2.08m - \n\nPage",
+      "quantity": "7",
+      "description": "Technical and Production Information for the Concert Hall4 Venue Dimensions \n4.1 Plan Dimensions \nDimension Details Distance \nA Depth of stage at centre line 12.30m \nB Depth of stage at centre line with stage extension 14.30m \nC Width of stage front 14.50m \nD Width between down-stage doors",
+      "equipment_type": "lighting",
+      "raw_text": " larger door and lack of permanent infrastructure within the wing area. PS access \nis slightly more restrictive with reduced clearance between anteroom and wing.  \nKey Stage Access Dimensions Height Width \nA Doors from wings to stage (all 4) 2.20m 2.00m \nB Minimum clearance from anteroom to OP wing 2.20m 2.80m \nC Minimum clearance from anteroom to PS wing 2.20m 1.70m \nD Anteroom ceiling height 2.25m - \nE Height clearance to down stage doors 2.08m - \n\nPage 7 Technical and Production Information for the Concert Hall4 Venue Dimensions \n4.1 Plan Dimensions \nDimension Details Distance \nA Depth of stage at centre line 12.30m \nB Depth of stage at centre line with stage extension 14.30m \nC Width of stage front 14.50m \nD Width between down-stage doors"
+    },
+    {
+      "model": " \ninstalled as acoustic treatment as a part of \namplified performances \nVinyl Black or White \nGeneral \nFurniture Card Table 830 x 830mm Square Top \nTrestle Table 1800 x",
+      "quantity": "750",
+      "description": "Top",
+      "equipment_type": "lighting",
+      "raw_text": " \ninstalled as acoustic treatment as a part of \namplified performances \nVinyl Black or White \nGeneral \nFurniture Card Table 830 x 830mm Square Top \nTrestle Table 1800 x 750 Top"
+    },
+    {
+      "model": "3m lengths \nBox Truss Limited quantity - various lengths \n\nPage",
+      "quantity": "18",
+      "description": "Technical and Production Information for the Concert Hall6 Lighting \n6.1 Base Lighting Equipment \nIn addition to venue hire charges",
+      "equipment_type": "lighting",
+      "raw_text": "3m lengths \nBox Truss Limited quantity - various lengths \n\nPage 18 Technical and Production Information for the Concert Hall6 Lighting \n6.1 Base Lighting Equipment \nIn addition to venue hire charges"
+    },
+    {
+      "model": " by prior arrangement. Electrical \ninstallations may only be performed by SOH staff and all requirements must be \ndiscussed in advance.  \n6.1.4 Dimmers  \nThe CH has over",
+      "quantity": "618",
+      "description": "channels of 3kw dimming ",
+      "equipment_type": "lighting",
+      "raw_text": " by prior arrangement. Electrical \ninstallations may only be performed by SOH staff and all requirements must be \ndiscussed in advance.  \n6.1.4 Dimmers  \nThe CH has over 618 channels of 3kw dimming "
+    },
+    {
+      "model": " \nthere are over 350 channels available for temporary event overlay including 146 \nchannels on-stage level and 216 channels located within the lighting cable reelers. \n\nPage",
+      "quantity": "19",
+      "description": "Technical and Production Information for the Concert Hall6.1.5 Lighting Pods \nThere are sixteen",
+      "equipment_type": "lighting",
+      "raw_text": " \nthere are over 350 channels available for temporary event overlay including 146 \nchannels on-stage level and 216 channels located within the lighting cable reelers. \n\nPage 19 Technical and Production Information for the Concert Hall6.1.5 Lighting Pods \nThere are sixteen"
+    },
+    {
+      "model": " and any other notes.  \nPosition Equipment Details \nFOH Bridge 2 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting \nFOH Bridge 3 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nFOH Bridge 4 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nBack Spots ETC Source4 LED Series 3 10 variable focus per side \nCannon Ports MAC Encore Performance WRM  4 per side  \nLighting Pods ETC Pro Eight-Cell Fixed focus \nLighting Pods SolaFrame Studio 1 per pod \nCrown Lighting LDOH005 INCAND AIR RGBAW \nFollowspot Booth Robert Juliat Arthur LT LED Followspot",
+      "quantity": "2",
+      "description": "per side \nOrgan Lighting LED strip Fixed focus \n6.1.8 House Lights \nThe house lights are RGBAW LED fixtures which can emulate tungsten",
+      "equipment_type": "lighting",
+      "raw_text": " and any other notes.  \nPosition Equipment Details \nFOH Bridge 2 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting \nFOH Bridge 3 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nFOH Bridge 4 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nBack Spots ETC Source4 LED Series 3 10 variable focus per side \nCannon Ports MAC Encore Performance WRM  4 per side  \nLighting Pods ETC Pro Eight-Cell Fixed focus \nLighting Pods SolaFrame Studio 1 per pod \nCrown Lighting LDOH005 INCAND AIR RGBAW \nFollowspot Booth Robert Juliat Arthur LT LED Followspot 2 per side \nOrgan Lighting LED strip Fixed focus \n6.1.8 House Lights \nThe house lights are RGBAW LED fixtures which can emulate tungsten"
+    },
+    {
+      "model": " but if required \nalso provide the ability to change colour and isolate specific areas.  \n6.1.9 Crown Lights \nThe crown lights are RGBAW LED fixtures which can emulate tungsten but also provide \nthe ability to change colour. Due to the reflectors and lighting pods permanently hung in \nthe venue these lights do not provide lighting for the stage platform and serve as \narchitectural lighting elements that match the existing house lights.  \n\nPage",
+      "quantity": "20",
+      "description": "Technical and Production Information for the Concert Hall6.2 Additional Lighting Equipment \nThe following equipment is dedicated to the venue and can be utilised by your production \nat an additional cost",
+      "equipment_type": "lighting",
+      "raw_text": " but if required \nalso provide the ability to change colour and isolate specific areas.  \n6.1.9 Crown Lights \nThe crown lights are RGBAW LED fixtures which can emulate tungsten but also provide \nthe ability to change colour. Due to the reflectors and lighting pods permanently hung in \nthe venue these lights do not provide lighting for the stage platform and serve as \narchitectural lighting elements that match the existing house lights.  \n\nPage 20 Technical and Production Information for the Concert Hall6.2 Additional Lighting Equipment \nThe following equipment is dedicated to the venue and can be utilised by your production \nat an additional cost"
+    },
+    {
+      "model": " \nLamp Type Allocation \n Martin Mac Viper Performance 8 \n Martin Mac Viper Profile 10 \n Martin Quantum Profile 18 \n Martin Quantum Wash 18 \n Martin Mac 101 CW",
+      "quantity": "8",
+      "description": "Additional lamp and effects stock are available upon request \n6.2.1 Followspots \nFour Robert Juliat Arthur LT  800W LED followspots with manual colour changers are \npermanently located above the dress circle in a dedicated followspot room.  \nThe angle to the down-stage edge of the stage is approximately 30",
+      "equipment_type": "lighting",
+      "raw_text": " \nLamp Type Allocation \n Martin Mac Viper Performance 8 \n Martin Mac Viper Profile 10 \n Martin Quantum Profile 18 \n Martin Quantum Wash 18 \n Martin Mac 101 CW 8 Additional lamp and effects stock are available upon request \n6.2.1 Followspots \nFour Robert Juliat Arthur LT  800W LED followspots with manual colour changers are \npermanently located above the dress circle in a dedicated followspot room.  \nThe angle to the down-stage edge of the stage is approximately 30"
+    },
+    {
+      "model": " AV department has a range of playback options and switchers. SOH vision \nequipment is shared between all venues and its use in the CH is subject to availability \nand will incur additional charges. \nEquipment Model \nSwitchers Barco Image Pro \nBlackmagic Design ATEM",
+      "quantity": "2",
+      "description": "M",
+      "equipment_type": "lighting",
+      "raw_text": " AV department has a range of playback options and switchers. SOH vision \nequipment is shared between all venues and its use in the CH is subject to availability \nand will incur additional charges. \nEquipment Model \nSwitchers Barco Image Pro \nBlackmagic Design ATEM 2 M"
+    },
+    {
+      "model": "Technical and Production Information for the Concert HallContents \n1 Introduction 3\n1.1 List of Acronyms 3\n2 Risk Management 4\n3 Venue Access 5\n3.1 Getting to Stage Level 5\n3.2 Anteroom to Stage 6\n4 Venue Dimensions 7\n4.1 Plan Dimensions 7\n4.2 Section Dimensions 8\n4.3 Stage Surface 9\n4.4 Stage Plans 9\n4.5 Auditorium Seating 9\n5 Staging 11\n5.1 Stage Machinery 11\n5.2 Acoustic Systems 13\n5.3 Standard Venue Configuration 15\n5.4 Standard Staging Equipment 16\n5.5 Additional Staging Equipment 16\n6 Lighting 18\n6.1 Base Lighting Equipment 18\n6.2 Additional Lighting Equipment 20\n7",
+      "quantity": "2",
+      "description": "Sound ",
+      "equipment_type": "lighting",
+      "raw_text": "Technical and Production Information for the Concert HallContents \n1 Introduction 3\n1.1 List of Acronyms 3\n2 Risk Management 4\n3 Venue Access 5\n3.1 Getting to Stage Level 5\n3.2 Anteroom to Stage 6\n4 Venue Dimensions 7\n4.1 Plan Dimensions 7\n4.2 Section Dimensions 8\n4.3 Stage Surface 9\n4.4 Stage Plans 9\n4.5 Auditorium Seating 9\n5 Staging 11\n5.1 Stage Machinery 11\n5.2 Acoustic Systems 13\n5.3 Standard Venue Configuration 15\n5.4 Standard Staging Equipment 16\n5.5 Additional Staging Equipment 16\n6 Lighting 18\n6.1 Base Lighting Equipment 18\n6.2 Additional Lighting Equipment 20\n7 2 Sound "
+    },
+    {
+      "model": "Stage Stairs \nTwo up-stage automated stairs form part of the up-stage lift and provide access to the \nchoir stalls. If access to the choir stalls is not",
+      "quantity": "3",
+      "description": "required",
+      "equipment_type": "lighting",
+      "raw_text": "Stage Stairs \nTwo up-stage automated stairs form part of the up-stage lift and provide access to the \nchoir stalls. If access to the choir stalls is not 3 required"
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall6 Lighting \n6.1 Base Lighting Equipment \nIn addition to venue hire",
+      "quantity": "18",
+      "description": "charges",
+      "equipment_type": "lighting",
+      "raw_text": "Technical and Production Information for the Concert Hall6 Lighting \n6.1 Base Lighting Equipment \nIn addition to venue hire 18 charges"
+    },
+    {
+      "model": "Control \nStage lighting is controlled by an ETC Gio console (located in the control room) with an \nETC",
+      "quantity": "1",
+      "description": "Gio",
+      "equipment_type": "lighting",
+      "raw_text": "Control \nStage lighting is controlled by an ETC Gio console (located in the control room) with an \nETC 1 Gio"
+    },
+    {
+      "model": "Dimmers  \nThe CH has over 618 channels of 3kw",
+      "quantity": "4",
+      "description": "dimming ",
+      "equipment_type": "lighting",
+      "raw_text": "Dimmers  \nThe CH has over 618 channels of 3kw 4 dimming "
+    },
+    {
+      "model": "channels available for temporary event overlay including 146 \nchannels on-stage level and 216 channels located within the lighting cable reelers. \n\nPage 19     Technical and Production Information for the Concert Hall6.1.5 Lighting Pods \nThere are",
+      "quantity": "350",
+      "description": "sixteen",
+      "equipment_type": "lighting",
+      "raw_text": "channels available for temporary event overlay including 146 \nchannels on-stage level and 216 channels located within the lighting cable reelers. \n\nPage 19     Technical and Production Information for the Concert Hall6.1.5 Lighting Pods \nThere are 350 sixteen"
+    },
+    {
+      "model": "Fixed Lighting Positions \nThere are several fixed lighting positions throughout the venue that can be used for \nperformances as required. Some of these positions have a fixed focus (typically for \norchestral lighting) while other positions can be adjusted to suit the needs of a particular \nevent. The table below provides a detailed overview of the lighting",
+      "quantity": "7",
+      "description": "positions",
+      "equipment_type": "lighting",
+      "raw_text": "Fixed Lighting Positions \nThere are several fixed lighting positions throughout the venue that can be used for \nperformances as required. Some of these positions have a fixed focus (typically for \norchestral lighting) while other positions can be adjusted to suit the needs of a particular \nevent. The table below provides a detailed overview of the lighting 7 positions"
+    },
+    {
+      "model": "Robert Juliat ZEP2 661SX profile spots Orchestra front lighting \nFOH Bridge 3 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nFOH Bridge 4 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nBack Spots ETC Source4 LED Series 3 10 variable focus per side \nCannon Ports MAC Encore Performance WRM  4 per side  \nLighting Pods ETC Pro Eight-Cell Fixed focus \nLighting Pods SolaFrame Studio 1 per pod \nCrown Lighting LDOH005 INCAND AIR RGBAW \nFollowspot Booth Robert Juliat Arthur LT LED Followspot 2 per side \nOrgan Lighting LED strip Fixed focus \n6.1.8 House Lights \nThe house lights are RGBAW LED fixtures which can emulate",
+      "quantity": "2",
+      "description": "tungsten",
+      "equipment_type": "lighting",
+      "raw_text": "Robert Juliat ZEP2 661SX profile spots Orchestra front lighting \nFOH Bridge 3 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nFOH Bridge 4 Robert Juliat ZEP2 661SX profile spots Orchestra front lighting  \nBack Spots ETC Source4 LED Series 3 10 variable focus per side \nCannon Ports MAC Encore Performance WRM  4 per side  \nLighting Pods ETC Pro Eight-Cell Fixed focus \nLighting Pods SolaFrame Studio 1 per pod \nCrown Lighting LDOH005 INCAND AIR RGBAW \nFollowspot Booth Robert Juliat Arthur LT LED Followspot 2 per side \nOrgan Lighting LED strip Fixed focus \n6.1.8 House Lights \nThe house lights are RGBAW LED fixtures which can emulate 2 tungsten"
+    },
+    {
+      "model": "Crown Lights \nThe crown lights are RGBAW LED fixtures which can emulate tungsten but also provide \nthe ability to change colour. Due to the reflectors and lighting pods permanently hung in \nthe venue these lights do not provide lighting for the stage platform and serve as \narchitectural lighting elements that match the existing house lights.  \n\nPage 20     Technical and Production Information for the Concert Hall6.2 Additional Lighting Equipment \nThe following equipment is dedicated to the venue and can be utilised by your production \nat an additional",
+      "quantity": "9",
+      "description": "cost",
+      "equipment_type": "lighting",
+      "raw_text": "Crown Lights \nThe crown lights are RGBAW LED fixtures which can emulate tungsten but also provide \nthe ability to change colour. Due to the reflectors and lighting pods permanently hung in \nthe venue these lights do not provide lighting for the stage platform and serve as \narchitectural lighting elements that match the existing house lights.  \n\nPage 20     Technical and Production Information for the Concert Hall6.2 Additional Lighting Equipment \nThe following equipment is dedicated to the venue and can be utilised by your production \nat an additional 9 cost"
+    },
+    {
+      "model": "Martin Mac Viper Profile 10 \n Martin Quantum Profile 18 \n Martin Quantum Wash 18 \n Martin Mac 101 CW 8 \nAdditional lamp and effects stock are available upon request \n6.2.1 Followspots \nFour Robert Juliat Arthur LT  800W LED followspots with manual colour changers are \npermanently located above the dress circle in a dedicated followspot room.  \nThe angle to the down-stage edge of the stage is approximately",
+      "quantity": "8",
+      "description": "30",
+      "equipment_type": "lighting",
+      "raw_text": "Martin Mac Viper Profile 10 \n Martin Quantum Profile 18 \n Martin Quantum Wash 18 \n Martin Mac 101 CW 8 \nAdditional lamp and effects stock are available upon request \n6.2.1 Followspots \nFour Robert Juliat Arthur LT  800W LED followspots with manual colour changers are \npermanently located above the dress circle in a dedicated followspot room.  \nThe angle to the down-stage edge of the stage is approximately 8 30"
+    },
+    {
+      "model": "Music Stand Lights \n24V LED sconce lights are available to fit music stands at an additional cost. \n6.2.3 Smoke and fog machines \nTwo Unique haze machines are permanently installed in the up-stage cannon port ",
+      "quantity": "2",
+      "description": "positions ",
+      "equipment_type": "lighting",
+      "raw_text": "Music Stand Lights \n24V LED sconce lights are available to fit music stands at an additional cost. \n6.2.3 Smoke and fog machines \nTwo Unique haze machines are permanently installed in the up-stage cannon port  2 positions "
+    },
+    {
+      "model": "Headset Communications  \nA Riedel Artist wired intercom system operates across all venues. Permanent talkback \nstations are available in lighting and sound control",
+      "quantity": "3",
+      "description": "locations",
+      "equipment_type": "lighting",
+      "raw_text": "Headset Communications  \nA Riedel Artist wired intercom system operates across all venues. Permanent talkback \nstations are available in lighting and sound control 3 locations"
+    }
+  ],
+  "sound": [
+    {
+      "raw_text": "2 Additional A/V Equipment 22",
+      "equipment_type": "sound"
+    },
+    {
+      "raw_text": "packs",
+      "equipment_type": "sound"
+    },
+    {
+      "raw_text": "up.",
+      "equipment_type": "sound"
+    },
+    {
+      "raw_text": "up for this position is a Yamaha QL1 desk behind Box U.",
+      "equipment_type": "sound"
+    },
+    {
+      "model": " Audio Visual 21\n7.1 Base Sound Equipment",
+      "quantity": "21",
+      "description": "7.2 Additional A",
+      "equipment_type": "sound",
+      "raw_text": " Audio Visual 21\n7.1 Base Sound Equipment 21 7.2 Additional A"
+    },
+    {
+      "model": " there are three tie-off points \nat the back row of each box. \n\nPage",
+      "quantity": "13",
+      "description": "Technical and Production Information for the Concert Hall5.2 Acoustic Systems \nThe CH has various sound reflecting ",
+      "equipment_type": "sound",
+      "raw_text": " there are three tie-off points \nat the back row of each box. \n\nPage 13 Technical and Production Information for the Concert Hall5.2 Acoustic Systems \nThe CH has various sound reflecting "
+    },
+    {
+      "model": " the \nreflectors are flown out and tilted to provide clearance for the deployment of the acoustic \nbanners and over-head machinery. \n\n\nPage",
+      "quantity": "14",
+      "description": "Technical and Production Information for the Concert Hall5.2.2 Wall Reflectors \nThere are twenty-two wall reflectors (eleven on each side of the venue) that are deployed \nfrom the vertical walls near the ceiling. These reflectors extend from the wall \napproximately 1.4m and provide additional reflection of sound down to the audience.  \n5.2.3 Acoustic Banners \nWhen the CH is in ",
+      "equipment_type": "sound",
+      "raw_text": " the \nreflectors are flown out and tilted to provide clearance for the deployment of the acoustic \nbanners and over-head machinery. \n\n\nPage 14 Technical and Production Information for the Concert Hall5.2.2 Wall Reflectors \nThere are twenty-two wall reflectors (eleven on each side of the venue) that are deployed \nfrom the vertical walls near the ceiling. These reflectors extend from the wall \napproximately 1.4m and provide additional reflection of sound down to the audience.  \n5.2.3 Acoustic Banners \nWhen the CH is in "
+    },
+    {
+      "model": " Flown audio subs removed \n\n\nPage",
+      "quantity": "16",
+      "description": "Technical and Production Information for the Concert Hall",
+      "equipment_type": "sound",
+      "raw_text": " Flown audio subs removed \n\n\nPage 16 Technical and Production Information for the Concert Hall"
+    },
+    {
+      "model": " and \nspecial effects of any type are not permitted to be installed in or around the organ loft. \nOil-based machines are not permitted at any time. \n\nPage",
+      "quantity": "21",
+      "description": "Technical and Production Information for the Concert Hall7 Sound ",
+      "equipment_type": "sound",
+      "raw_text": " and \nspecial effects of any type are not permitted to be installed in or around the organ loft. \nOil-based machines are not permitted at any time. \n\nPage 21 Technical and Production Information for the Concert Hall7 Sound "
+    },
+    {
+      "model": " 8 Individual XLR audio tie lines and",
+      "quantity": "96",
+      "description": "channels of audio tie lines (via 2x150 \npin LK connectors) \n",
+      "equipment_type": "sound",
+      "raw_text": " 8 Individual XLR audio tie lines and 96 channels of audio tie lines (via 2x150 \npin LK connectors) \n"
+    },
+    {
+      "model": "Fine 66 \nDPA 4061 \nDPA 4080 \nDPA",
+      "quantity": "6066",
+      "description": "Radio Microphones ",
+      "equipment_type": "sound",
+      "raw_text": "Fine 66 \nDPA 4061 \nDPA 4080 \nDPA 6066 Radio Microphones "
+    },
+    {
+      "model": " \nShure KSM9 \nShure Beta",
+      "quantity": "58",
+      "description": "Shure SM58 \nShure In-Ear Monitors Stereo PT10T dual wireless transmitters \nP10R wireless body-pack receivers \nSE425 earpieces \nWired Microphones SOH have a wide range of microphones from brands such \nas Sennheiser",
+      "equipment_type": "sound",
+      "raw_text": " \nShure KSM9 \nShure Beta 58 Shure SM58 \nShure In-Ear Monitors Stereo PT10T dual wireless transmitters \nP10R wireless body-pack receivers \nSE425 earpieces \nWired Microphones SOH have a wide range of microphones from brands such \nas Sennheiser"
+    },
+    {
+      "model": " Beyer and Neumann and \noffers a variety of packages to suit \nAdditional Playback MacBook Pro running QLab \n\nPage",
+      "quantity": "24",
+      "description": "Technical and Production Information for the Concert Hall7.2.4 Video Replay \nThe Sound ",
+      "equipment_type": "sound",
+      "raw_text": " Beyer and Neumann and \noffers a variety of packages to suit \nAdditional Playback MacBook Pro running QLab \n\nPage 24 Technical and Production Information for the Concert Hall7.2.4 Video Replay \nThe Sound "
+    },
+    {
+      "model": "7.1 Base Sound Equipment 21\n7.2 Additional",
+      "quantity": "21",
+      "description": "A",
+      "equipment_type": "sound",
+      "raw_text": "7.1 Base Sound Equipment 21\n7.2 Additional 21 A"
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall5.2 Acoustic Systems \nThe CH has various sound",
+      "quantity": "13",
+      "description": "reflecting ",
+      "equipment_type": "sound",
+      "raw_text": "Technical and Production Information for the Concert Hall5.2 Acoustic Systems \nThe CH has various sound 13 reflecting "
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall5.2.2 Wall Reflectors \nThere are twenty-two wall reflectors (eleven on each side of the venue) that are deployed \nfrom the vertical walls near the ceiling. These reflectors extend from the wall \napproximately 1.4m and provide additional reflection of sound down to the audience.  \n5.2.3 Acoustic Banners \nWhen the CH is",
+      "quantity": "14",
+      "description": "in ",
+      "equipment_type": "sound",
+      "raw_text": "Technical and Production Information for the Concert Hall5.2.2 Wall Reflectors \nThere are twenty-two wall reflectors (eleven on each side of the venue) that are deployed \nfrom the vertical walls near the ceiling. These reflectors extend from the wall \napproximately 1.4m and provide additional reflection of sound down to the audience.  \n5.2.3 Acoustic Banners \nWhen the CH is 14 in "
+    },
+    {
+      "model": "running as a tracking back-up.  \nBoth consoles have 24K channels and use an ETC DMX over Ethernet system for DMX \ndistribution. \nAn ETC Nomad Puck is available for use with",
+      "quantity": "5",
+      "description": "Designer",
+      "equipment_type": "sound",
+      "raw_text": "running as a tracking back-up.  \nBoth consoles have 24K channels and use an ETC DMX over Ethernet system for DMX \ndistribution. \nAn ETC Nomad Puck is available for use with 5 Designer"
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall7",
+      "quantity": "21",
+      "description": "Sound ",
+      "equipment_type": "sound",
+      "raw_text": "Technical and Production Information for the Concert Hall7 21 Sound "
+    },
+    {
+      "model": "Base Sound Equipment \nIn addition to venue hire",
+      "quantity": "1",
+      "description": "charges",
+      "equipment_type": "sound",
+      "raw_text": "Base Sound Equipment \nIn addition to venue hire 1 charges"
+    },
+    {
+      "model": "Loudspeaker System \nThe venue has a",
+      "quantity": "1",
+      "description": "D",
+      "equipment_type": "sound",
+      "raw_text": "Loudspeaker System \nThe venue has a 1 D"
+    },
+    {
+      "model": "Individual XLR audio tie lines and 96 channels of audio tie lines (via 2x150 \npin LK connectors)",
+      "quantity": "8",
+      "description": "\n",
+      "equipment_type": "sound",
+      "raw_text": "Individual XLR audio tie lines and 96 channels of audio tie lines (via 2x150 \npin LK connectors) 8 \n"
+    },
+    {
+      "model": "Mixing Console - FOH Stalls \nPermanently installed SSL Live L650 system comprising of ",
+      "quantity": "1",
+      "description": "\n",
+      "equipment_type": "sound",
+      "raw_text": "Mixing Console - FOH Stalls \nPermanently installed SSL Live L650 system comprising of  1 \n"
+    },
+    {
+      "model": "microphone preamplifiers",
+      "quantity": "144",
+      "description": "\n",
+      "equipment_type": "sound",
+      "raw_text": "microphone preamplifiers 144 \n"
+    },
+    {
+      "model": "seats must be removed from the stalls \nin rows W and X. \n7.2.2 Mixing Console - Box",
+      "quantity": "14",
+      "description": "A ",
+      "equipment_type": "sound",
+      "raw_text": "seats must be removed from the stalls \nin rows W and X. \n7.2.2 Mixing Console - Box 14 A "
+    },
+    {
+      "model": "desk behind Box U.  \n7.2.3 Monitor Console \nAn SSL Live L650 console is available in a rolling case to be setup side of stage.",
+      "quantity": "1",
+      "description": "I",
+      "equipment_type": "sound",
+      "raw_text": "desk behind Box U.  \n7.2.3 Monitor Console \nAn SSL Live L650 console is available in a rolling case to be setup side of stage. 1 I"
+    },
+    {
+      "model": "microphone preamplifiers",
+      "quantity": "144",
+      "description": "\n",
+      "equipment_type": "sound",
+      "raw_text": "microphone preamplifiers 144 \n"
+    },
+    {
+      "model": "Console \nSSL",
+      "quantity": "650",
+      "description": "L350",
+      "equipment_type": "sound",
+      "raw_text": "Console \nSSL 650 L350"
+    },
+    {
+      "model": "Console \nStage Monitors ",
+      "quantity": "1",
+      "description": "D",
+      "equipment_type": "sound",
+      "raw_text": "Console \nStage Monitors  1 D"
+    },
+    {
+      "model": "Radio",
+      "quantity": "8",
+      "description": "Microphones ",
+      "equipment_type": "sound",
+      "raw_text": "Radio 8 Microphones "
+    },
+    {
+      "model": "DPA 4061 \nDPA 4080 \nDPA 6066 \nRadio",
+      "quantity": "66",
+      "description": "Microphones ",
+      "equipment_type": "sound",
+      "raw_text": "DPA 4061 \nDPA 4080 \nDPA 6066 \nRadio 66 Microphones "
+    },
+    {
+      "model": "Shure Beta 58 \nShure SM58 \nShure In-Ear Monitors Stereo PT10T dual wireless transmitters \nP10R wireless body-pack receivers \nSE425 earpieces \nWired Microphones SOH have a wide range of microphones from brands such \nas",
+      "quantity": "9",
+      "description": "Sennheiser",
+      "equipment_type": "sound",
+      "raw_text": "Shure Beta 58 \nShure SM58 \nShure In-Ear Monitors Stereo PT10T dual wireless transmitters \nP10R wireless body-pack receivers \nSE425 earpieces \nWired Microphones SOH have a wide range of microphones from brands such \nas 9 Sennheiser"
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall7.2.4 Video Replay \nThe",
+      "quantity": "24",
+      "description": "Sound ",
+      "equipment_type": "sound",
+      "raw_text": "Technical and Production Information for the Concert Hall7.2.4 Video Replay \nThe 24 Sound "
+    }
+  ],
+  "video": [
+    {
+      "raw_text": "5 Additional Staging Equipment",
+      "equipment_type": "video"
+    },
+    {
+      "raw_text": "1m x",
+      "equipment_type": "video"
+    },
+    {
+      "raw_text": "4m (20ft x",
+      "equipment_type": "video"
+    },
+    {
+      "model": "3ft) 16",
+      "quantity": "9",
+      "equipment_type": "video",
+      "raw_text": "3ft) 16:9 ratio FastFold"
+    },
+    {
+      "raw_text": "stage view in order to facilitate exits / entrances.",
+      "equipment_type": "video"
+    },
+    {
+      "model": " to be discussed with Event Operations prior to on-sale. \n\nPage 10     Technical and Production Information for the Concert Hall\n\n\nPage 11     Technical and Production Information for the Concert Hall5 Staging \n5.1 Stage Machinery \nThe Concert Hall is equipped with a sophisticated theatre machinery system with over \n350 axes of control. The control of all machinery is achieved via a number of touch \nscreen desks and handheld devices with multiple connections points (including wireless) \navailable throughout the venue. \nThe control system may only be operated by SOH staff. \nMachinery Type Quantity Details \nStage Lift 25 Arranged in a semi-circular formation \nUp-stage Stairs 2 Provide access to choir stalls from up-stage lift \nMid-stage Stairs 2 Deploy automatically when required \nStage Extension",
+      "quantity": "3",
+      "description": "Can be lowered to reveal stalls rows A ",
+      "equipment_type": "video",
+      "raw_text": " to be discussed with Event Operations prior to on-sale. \n\nPage 10     Technical and Production Information for the Concert Hall\n\n\nPage 11     Technical and Production Information for the Concert Hall5 Staging \n5.1 Stage Machinery \nThe Concert Hall is equipped with a sophisticated theatre machinery system with over \n350 axes of control. The control of all machinery is achieved via a number of touch \nscreen desks and handheld devices with multiple connections points (including wireless) \navailable throughout the venue. \nThe control system may only be operated by SOH staff. \nMachinery Type Quantity Details \nStage Lift 25 Arranged in a semi-circular formation \nUp-stage Stairs 2 Provide access to choir stalls from up-stage lift \nMid-stage Stairs 2 Deploy automatically when required \nStage Extension 3 Can be lowered to reveal stalls rows A "
+    },
+    {
+      "model": " \nElement Equipment Allocation Details \nGeneral \nFurniture Card Table 3 830 x 830mm Square Top \nTrestle Table 2 1800 x 750 Top \nVinyl Chair 10 \nBlack Screen 4 \nWardrobe Wardrobe Rack (large) 7 \nWardrobe Rack (small) 7 \nDesk Unit",
+      "quantity": "2",
+      "description": "Portable with mirror",
+      "equipment_type": "video",
+      "raw_text": " \nElement Equipment Allocation Details \nGeneral \nFurniture Card Table 3 830 x 830mm Square Top \nTrestle Table 2 1800 x 750 Top \nVinyl Chair 10 \nBlack Screen 4 \nWardrobe Wardrobe Rack (large) 7 \nWardrobe Rack (small) 7 \nDesk Unit 2 Portable with mirror"
+    },
+    {
+      "model": "Technical and Production Information for the Concert Hall\n\n\nPage 11     Technical and Production Information for the Concert Hall5 Staging \n5.1 Stage Machinery \nThe Concert Hall is equipped with a sophisticated theatre machinery system with over \n350 axes of control. The control of all machinery is achieved via a number of touch \nscreen desks and handheld devices with multiple connections points (including wireless) \navailable throughout the venue. \nThe control system may only be operated by SOH staff. \nMachinery Type Quantity Details \nStage Lift 25 Arranged in a semi-circular formation \nUp-stage Stairs 2 Provide access to choir stalls from up-stage lift \nMid-stage Stairs 2 Deploy automatically when required \nStage Extension 3 Can be lowered to reveal stalls rows",
+      "quantity": "10",
+      "description": "A ",
+      "equipment_type": "video",
+      "raw_text": "Technical and Production Information for the Concert Hall\n\n\nPage 11     Technical and Production Information for the Concert Hall5 Staging \n5.1 Stage Machinery \nThe Concert Hall is equipped with a sophisticated theatre machinery system with over \n350 axes of control. The control of all machinery is achieved via a number of touch \nscreen desks and handheld devices with multiple connections points (including wireless) \navailable throughout the venue. \nThe control system may only be operated by SOH staff. \nMachinery Type Quantity Details \nStage Lift 25 Arranged in a semi-circular formation \nUp-stage Stairs 2 Provide access to choir stalls from up-stage lift \nMid-stage Stairs 2 Deploy automatically when required \nStage Extension 3 Can be lowered to reveal stalls rows 10 A "
+    },
+    {
+      "model": "830 x 830mm Square Top \nTrestle Table 2 1800 x 750 Top \nVinyl Chair 10 \nBlack Screen 4 \nWardrobe Wardrobe Rack (large) 7 \nWardrobe Rack (small) 7 \nDesk Unit 2 Portable with",
+      "quantity": "3",
+      "description": "mirror",
+      "equipment_type": "video",
+      "raw_text": "830 x 830mm Square Top \nTrestle Table 2 1800 x 750 Top \nVinyl Chair 10 \nBlack Screen 4 \nWardrobe Wardrobe Rack (large) 7 \nWardrobe Rack (small) 7 \nDesk Unit 2 Portable with 3 mirror"
+    },
+    {
+      "model": "Projection and Video Monitors \nThere are several options available for projector placement within the",
+      "quantity": "5",
+      "description": "venue",
+      "equipment_type": "video",
+      "raw_text": "Projection and Video Monitors \nThere are several options available for projector placement within the 5 venue"
+    },
+    {
+      "model": "ratio FastFold \nVideo Monitors LCD",
+      "quantity": "9",
+      "description": "75",
+      "equipment_type": "video",
+      "raw_text": "ratio FastFold \nVideo Monitors LCD 9 75"
+    },
+    {
+      "model": "Temporary Show Relay \nTemporary show relay screens can be deployed around the",
+      "quantity": "4",
+      "description": "venue",
+      "equipment_type": "video",
+      "raw_text": "Temporary Show Relay \nTemporary show relay screens can be deployed around the 4 venue"
+    }
+  ]
+}

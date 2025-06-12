@@ -1,0 +1,11 @@
+Equipment Type,manufacturer,model,quantity,power,Frequency Response,Max SPL,Additional Information,equipment_type
+Line Array,d&b audiotechnik,V8,12,1000W,70Hz-18kHz,139dB,Main PA system,lighting
+Subwoofer,d&b audiotechnik,V-SUB,8,2000W,37Hz-115Hz,137dB,Flown with main array,lighting
+Monitor,L-Acoustics,X15 HiQ,8,1000W,55Hz-20kHz,138dB,Stage floor monitors,lighting
+Digital Mixer,DiGiCo,SD10,1,,,,48 input channels,lighting
+Microphone,Shure,SM58,20,,50Hz-15kHz,,Vocal microphones,lighting
+Microphone,Shure,SM57,15,,40Hz-15kHz,,Instrument microphones,lighting
+Microphone,Neumann,KM184,8,,20Hz-20kHz,,Condenser microphones,lighting
+Microphone,AKG,C414,4,,20Hz-20kHz,,Multi-pattern condenser,lighting
+DI Box,Radial,J48,12,,,,Active DI boxes,lighting
+Processing,BSS,Soundweb London,2,,,,System processing,lighting

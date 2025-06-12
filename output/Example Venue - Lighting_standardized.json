@@ -1,0 +1,90 @@
+[
+  {
+    "model":"PAR",
+    "manufacturer":"ETC",
+    "Model Name":"Source Four PAR",
+    "quantity":24,
+    "power":"575W",
+    "DMX Channels":1.0,
+    "Beam Spread":"25-45 degrees",
+    "Notes":"With various lens options",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Moving Head",
+    "manufacturer":"Martin",
+    "Model Name":"MAC Quantum Profile",
+    "quantity":12,
+    "power":"900W",
+    "DMX Channels":41.0,
+    "Beam Spread":"10-40 degrees",
+    "Notes":"Full color mixing capability",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Moving Head",
+    "manufacturer":"Robe",
+    "Model Name":"Pointe",
+    "quantity":8,
+    "power":"470W",
+    "DMX Channels":30.0,
+    "Beam Spread":"5-20 degrees",
+    "Notes":"Beam\/Spot\/Wash",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Strobe",
+    "manufacturer":"Martin",
+    "Model Name":"Atomic 3000",
+    "quantity":6,
+    "power":"3000W",
+    "DMX Channels":1.0,
+    "Beam Spread":"120 degrees",
+    "Notes":"High-intensity strobe",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Fresnel",
+    "manufacturer":"ETC",
+    "Model Name":"Source Four Fresnel",
+    "quantity":16,
+    "power":"750W",
+    "DMX Channels":1.0,
+    "Beam Spread":"18-65 degrees",
+    "Notes":"With barndoors",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"LED",
+    "manufacturer":"Chauvet",
+    "Model Name":"COLORado 1-Tri Tour",
+    "quantity":20,
+    "power":"50W",
+    "DMX Channels":7.0,
+    "Beam Spread":"15 degrees",
+    "Notes":"RGB color mixing",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Follow Spot",
+    "manufacturer":"Robert Juliat",
+    "Model Name":"Korrigan",
+    "quantity":2,
+    "power":"1200W",
+    "DMX Channels":null,
+    "Beam Spread":"5-9 degrees",
+    "Notes":"Manual operation",
+    "equipment_type":"lighting"
+  },
+  {
+    "model":"Haze",
+    "manufacturer":"MDG",
+    "Model Name":"Atmosphere",
+    "quantity":1,
+    "power":"715W",
+    "DMX Channels":2.0,
+    "Beam Spread":null,
+    "Notes":"Water-based haze machine",
+    "equipment_type":"lighting"
+  }
+]

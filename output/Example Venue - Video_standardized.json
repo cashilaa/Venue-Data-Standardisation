@@ -1,0 +1,82 @@
+[
+  {
+    "Equipment Type":"Projector",
+    "manufacturer":"Barco",
+    "model":"UDX-4K32",
+    "quantity":2,
+    "Resolution":"4K (3840x2400)",
+    "Input Types":"HDMI\/DisplayPort\/SDI",
+    "Notes":"32,000 lumens laser projector",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Projector Screen",
+    "manufacturer":"Da-Lite",
+    "model":"Truss Style",
+    "quantity":2,
+    "Resolution":"20' x 11.25'",
+    "Input Types":null,
+    "Notes":"16:9 aspect ratio",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Video Mixer",
+    "manufacturer":"Blackmagic",
+    "model":"ATEM 2 M\/E Production Studio 4K",
+    "quantity":1,
+    "Resolution":"4K",
+    "Input Types":"20 inputs",
+    "Notes":"Advanced video switching",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Scaler",
+    "manufacturer":"Extron",
+    "model":"DSC HD-HD",
+    "quantity":2,
+    "Resolution":"1080p",
+    "Input Types":"HDMI\/DVI\/VGA",
+    "Notes":"Signal conversion and scaling",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Monitor",
+    "manufacturer":"Dell",
+    "model":"P2418D",
+    "quantity":3,
+    "Resolution":"2560x1440",
+    "Input Types":"HDMI\/DisplayPort",
+    "Notes":"Preview monitors",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Camera",
+    "manufacturer":"Sony",
+    "model":"PXW-FS7",
+    "quantity":2,
+    "Resolution":"4K",
+    "Input Types":null,
+    "Notes":"Production cameras",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Media Server",
+    "manufacturer":"Disguise",
+    "model":"gx 2c",
+    "quantity":1,
+    "Resolution":"4K outputs",
+    "Input Types":"Various",
+    "Notes":"Content playback system",
+    "equipment_type":"lighting"
+  },
+  {
+    "Equipment Type":"Distribution",
+    "manufacturer":"Crestron",
+    "model":"DM-MD16x16",
+    "quantity":1,
+    "Resolution":"4K",
+    "Input Types":"HDMI\/HDBaseT",
+    "Notes":"Signal distribution matrix",
+    "equipment_type":"lighting"
+  }
+]
