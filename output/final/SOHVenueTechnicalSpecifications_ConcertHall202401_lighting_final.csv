@@ -1,11 +1,49 @@
 manufacturer,model,quantity,equipment_type,venue
+Additional,Lighting Equipment 20,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
 Additional Lighting,Equipment,20,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-"m lengths 
-Box Truss Limited quantity - various lengths 
-
-Page",18 Technical and Production Information for the Concert Hall6 Lighting,6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-with an,ETC,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Anteroom to Stage,"6
+4 Venue Dimensions 7",4,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Auditorium Seating,"9
+5 Staging 11",5,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional Staging Equipment,"16
+6 Lighting 18",6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+B Minimum clearance from anteroom to OP,wing,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+C Minimum clearance from anteroom to PS,wing,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+D Anteroom ceiling,height,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+E Height clearance to down stage,doors,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Plan Dimensions 
+Dimension Details Distance 
+A Depth of stage at centre",line,12,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+B Depth of stage at centre line with stage,extension,14,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+C Width of stage,front,14,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Dimmers  
+The CH has over",618 channels of,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Followspots 
+Four Robert Juliat Arthur",LT,800,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Equipment Model 
+Switchers Barco Image Pro 
+Blackmagic Design",ATEM,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Technical and Production Information for the Concert HallContents,1 Introduction 3,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional Lighting Equipment,"20
+7",2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+If access to the choir stalls is,not,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Technical and Production Information for the Concert,Hall6 Lighting,6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Base Lighting Equipment 
+In addition to venue",hire,18,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+ETC,Gio console,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+ETC,1 Gio,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
 "Dimmers  
 The CH has over",618 channels of 3kw,4,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-"Mixing Console - FOH Stalls 
-Permanently installed SSL Live",L650 system comprising of,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Lighting Pods 
+There",are,350,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+The table below provides a detailed overview of the,lighting,7,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"House Lights 
+The house lights are RGBAW LED fixtures which can",emulate,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Additional Lighting Equipment 
+The following equipment is dedicated to the venue and can be utilised by your production 
+at an",additional,9,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Music Stand,Lights,24,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Smoke and fog machines 
+Two Unique haze machines are permanently installed in the",up-stage cannon port,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Permanent talkback 
+stations are available in lighting and sound",control,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401

@@ -1,22 +1,71 @@
 manufacturer,model,quantity,equipment_type,venue
+Additional,Lighting Equipment 20,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional,Additional A/V Equipment 22,,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Audio,Visual 21 7.1 Base Sound Equipment,21.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Flown,audio subs removed Page,16.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Individual,XLR audio tie lines and,96.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Fine,DPA 4061 DPA 4080 DPA,6066.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Shure,KSM9 Shure Beta,58.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Technical and,Production Information for the Concert Hall7,21.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Loudspeaker,System The venue has a,1.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+,microphone preamplifiers,144.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Console,SSL,650.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Console,Stage Monitors,1.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+,Radio,8.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+DPA,DPA 4080 DPA 6066 Radio,66.0,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional Staging,Additional Staging Equipment,,video,SOHVenueTechnicalSpecifications ConcertHall202401
+,4m (20ft x,,video,SOHVenueTechnicalSpecifications ConcertHall202401
+,3ft) 16,9.0,video,SOHVenueTechnicalSpecifications ConcertHall202401
+,ratio FastFold Video Monitors LCD,9.0,video,SOHVenueTechnicalSpecifications ConcertHall202401
 Additional Lighting,Equipment,20,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-"m lengths 
-Box Truss Limited quantity - various lengths 
-
-Page",18 Technical and Production Information for the Concert Hall6 Lighting,6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-with an,ETC,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Anteroom to Stage,"6
+4 Venue Dimensions 7",4,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Auditorium Seating,"9
+5 Staging 11",5,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional Staging Equipment,"16
+6 Lighting 18",6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+B Minimum clearance from anteroom to OP,wing,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+C Minimum clearance from anteroom to PS,wing,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+D Anteroom ceiling,height,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+E Height clearance to down stage,doors,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Plan Dimensions 
+Dimension Details Distance 
+A Depth of stage at centre",line,12,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+B Depth of stage at centre line with stage,extension,14,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+C Width of stage,front,14,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Dimmers  
+The CH has over",618 channels of,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Followspots 
+Four Robert Juliat Arthur",LT,800,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Equipment Model 
+Switchers Barco Image Pro 
+Blackmagic Design",ATEM,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Technical and Production Information for the Concert HallContents,1 Introduction 3,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Additional Lighting Equipment,"20
+7",2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+If access to the choir stalls is,not,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Technical and Production Information for the Concert,Hall6 Lighting,6,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Base Lighting Equipment 
+In addition to venue",hire,18,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+ETC,Gio console,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+ETC,1 Gio,,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
 "Dimmers  
 The CH has over",618 channels of 3kw,4,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-"Mixing Console - FOH Stalls 
-Permanently installed SSL Live",L650 system comprising of,1,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
-V,Equipment,22,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Yamaha,up for this position is a Yamaha QL1 desk behind Box U,,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Audio Visual,"21
-7.1 Base Sound Equipment 21",7,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"there are three tie-off points 
-at the back row of each","box. 
-
-Page",13,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+"Lighting Pods 
+There",are,350,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+The table below provides a detailed overview of the,lighting,7,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"House Lights 
+The house lights are RGBAW LED fixtures which can",emulate,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Additional Lighting Equipment 
+The following equipment is dedicated to the venue and can be utilised by your production 
+at an",additional,9,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Music Stand,Lights,24,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Smoke and fog machines 
+Two Unique haze machines are permanently installed in the",up-stage cannon port,2,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+"Permanent talkback 
+stations are available in lighting and sound",control,3,lighting,SOHVenueTechnicalSpecifications ConcertHall202401
+Yamaha,QL1 desk behind Box U,,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+These reflectors extend from the wall,approximately,1,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 Flown audio subs removed,Page,16,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 Individual XLR audio tie lines,and,96,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 Fine,"66 
@@ -28,44 +77,28 @@ Shure Beta",58,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 "Beyer and Neumann and 
 offers a variety of packages to suit 
 Additional Playback MacBook Pro running QLab",Page,24,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Base Sound Equipment,"21
-7.2 Additional",21,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Technical and Production Information for the Concert,"Hall5.2 Acoustic Systems 
-The CH has various sound",13,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+"Acoustic Systems 
+The CH has various",sound,13,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+"Acoustic Banners 
+When the CH",is,14,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Both consoles,have,24,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+An ETC Nomad Puck is available for use,with,5,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 Technical and Production Information for the Concert,Hall7,21,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 "Base Sound Equipment 
 In addition to venue",hire,1,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"Loudspeaker System 
-The venue has",a,1,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"Mixing Console - FOH Stalls 
-Permanently installed SSL Live",L650 system comprising of,1,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-microphone,preamplifiers,144,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"seats must be removed from the stalls 
-in rows W and","X. 
-7.2.2 Mixing Console - Box",14,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Console,SSL,650,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+Mixing Console,- Box,14,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 "Console 
 Stage",Monitors,1,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-,Radio,,sound,SOHVenueTechnicalSpecifications ConcertHall202401
 DPA,"4061 
 DPA 4080 
 DPA 6066 
 Radio",66,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-Technical and Production Information for the Concert,"Hall7.2.4 Video Replay 
-The",24,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"Projection and Video Monitors 
-There are several options available for projector placement within",the,5,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-,"ratio FastFold 
-Video Monitors LCD",9,sound,SOHVenueTechnicalSpecifications ConcertHall202401
-"Console 
-Stage",Monitors,1,video,SOHVenueTechnicalSpecifications ConcertHall202401
-Additional Staging,5 Additional Staging Equipment,,video,SOHVenueTechnicalSpecifications ConcertHall202401
-,4m (20ft x,,video,SOHVenueTechnicalSpecifications ConcertHall202401
-,3ft) 16,,video,SOHVenueTechnicalSpecifications ConcertHall202401
-,stage view in order to facilitate exits / entrances,,video,SOHVenueTechnicalSpecifications ConcertHall202401
+Video Replay,The,24,sound,SOHVenueTechnicalSpecifications ConcertHall202401
+"Stage Machinery 
+The Concert Hall is equipped with a sophisticated theatre machinery system with",over,350,video,SOHVenueTechnicalSpecifications ConcertHall202401
+Desk,Unit,2,video,SOHVenueTechnicalSpecifications ConcertHall202401
+Desk Unit,2 Portable with,3,video,SOHVenueTechnicalSpecifications ConcertHall202401
 "Projection and Video Monitors 
 There are several options available for projector placement within",the,5,video,SOHVenueTechnicalSpecifications ConcertHall202401
-,"ratio FastFold 
-Video Monitors LCD",9,video,SOHVenueTechnicalSpecifications ConcertHall202401
 "Temporary Show Relay 
 Temporary show relay screens can be deployed around",the,4,video,SOHVenueTechnicalSpecifications ConcertHall202401
