@@ -1,0 +1,34 @@
+VENUE DATA STANDARDIZATION SUMMARY REPORT
+==================================================
+
+Total Venues Processed: 3
+Total Equipment Items: 365
+
+Equipment Breakdown:
+--------------------
+Lighting: 6 items
+Sound: 44 items
+Video: 3 items
+Other: 312 items
+
+Venue Details:
+---------------
+
+of the Zoning 
+Resolution to allow an:
+  Total Equipment: 250 items
+    Lighting: 2 items
+    Sound: 18 items
+    Video: 1 items
+    Other: 229 items
+
+2007v12 essential elements:
+  Total Equipment: 15 items
+    Other: 15 items
+
+SOHVenueTechnicalSpecifications ConcertHall202401:
+  Total Equipment: 100 items
+    Lighting: 4 items
+    Sound: 26 items
+    Video: 2 items
+    Other: 68 items
